@@ -187,7 +187,7 @@
     },
     {
         "name_cn": "奥兰群岛",
-        "name_en": "Aland Islands",
+        "name_en": "Aland",
         "code": "AX",
         "coordinate": {
             "longitude": 19.9,
@@ -205,7 +205,7 @@
     },
     {
         "name_cn": "波黑",
-        "name_en": "Bosnia and Herzegovina",
+        "name_en": "Bosnia and Herz.",
         "code": "BA",
         "coordinate": {
             "longitude": 18,
@@ -411,17 +411,17 @@
         }
     },
     {
-        "name_cn": "刚果(金)",
-        "name_en": "Congo (DRC)",
-        "code": "CD",
-        "coordinate": {
-            "longitude": 25,
-            "latitude": 0
-        }
+      "name_cn": "刚果(金)",
+      "name_en": "Dem. Rep. Congo",
+      "code": "CD",
+      "coordinate": {
+        "longitude": 21.75,
+        "latitude": -4.03
+      }
     },
     {
         "name_cn": "中非",
-        "name_en": "Central African Republic",
+        "name_en": "Central African Rep.",
         "code": "CF",
         "coordinate": {
             "longitude": 21,
@@ -430,7 +430,7 @@
     },
     {
         "name_cn": "刚果(布)",
-        "name_en": "Congo (Republic)",
+        "name_en": "Congo",
         "code": "CG",
         "coordinate": {
             "longitude": 15,
@@ -448,7 +448,7 @@
     },
     {
         "name_cn": "科特迪瓦",
-        "name_en": "Cote d'Ivoire",
+        "name_en": "Côte d'Ivoire",
         "code": "CI",
         "coordinate": {
             "longitude": -5,
@@ -565,7 +565,7 @@
     },
     {
         "name_cn": "捷克",
-        "name_en": "Czech Republic",
+        "name_en": "Czech Rep.",
         "code": "CZ",
         "coordinate": {
             "longitude": 15,
@@ -619,7 +619,7 @@
     },
     {
         "name_cn": "多米尼加",
-        "name_en": "Dominican Republic",
+        "name_en": "Dominican Rep.",
         "code": "DO",
         "coordinate": {
             "longitude": -70.66,
@@ -673,7 +673,7 @@
     },
     {
         "name_cn": "西撒哈拉",
-        "name_en": "Western Sahara",
+        "name_en": "W. Sahara",
         "code": "EH",
         "coordinate": {
             "longitude": -12,
@@ -736,7 +736,7 @@
     },
     {
         "name_cn": "福克兰群岛",
-        "name_en": "Falkland Islands",
+        "name_en": "Falkland Is.",
         "code": "FK",
         "coordinate": {
             "longitude": -59,
@@ -862,7 +862,7 @@
     },
     {
         "name_cn": "几内亚",
-        "name_en": "Guinea",
+        "name_en": "Eq. Guinea",
         "code": "GN",
         "coordinate": {
             "longitude": -10,
@@ -1177,7 +1177,7 @@
     },
     {
         "name_cn": "朝鲜",
-        "name_en": "North Korea",
+        "name_en": "Dem. Rep. Korea",
         "code": "KP",
         "coordinate": {
             "longitude": 127,
@@ -1186,7 +1186,7 @@
     },
     {
         "name_cn": "韩国",
-        "name_en": "South Korea",
+        "name_en": "Korea",
         "code": "KR",
         "coordinate": {
             "longitude": 127.5,
@@ -1384,7 +1384,7 @@
     },
     {
         "name_cn": "北马其顿",
-        "name_en": "North Macedonia",
+        "name_en": "Macedonia",
         "code": "MK",
         "coordinate": {
             "longitude": 22,
@@ -1825,7 +1825,7 @@
     },
     {
         "name_cn": "所罗门群岛",
-        "name_en": "Solomon Islands",
+        "name_en": "Solomon Is.",
         "code": "SB",
         "coordinate": {
             "longitude": 159,
@@ -1951,7 +1951,7 @@
     },
     {
         "name_cn": "南苏丹",
-        "name_en": "South Sudan",
+        "name_en": "S. Sudan",
         "code": "SS",
         "coordinate": {
             "longitude": 30,
@@ -1960,7 +1960,7 @@
     },
     {
         "name_cn": "圣多美和普林西比",
-        "name_en": "Sao Tome and Principe",
+        "name_en": "São Tomé and Principe",
         "code": "ST",
         "coordinate": {
             "longitude": 6.25,
@@ -1995,13 +1995,13 @@
         }
     },
     {
-        "name_cn": "斯威士兰",
-        "name_en": "Eswatini",
-        "code": "SZ",
-        "coordinate": {
-            "longitude": 31.5,
-            "latitude": -26.5
-        }
+      "name_cn": "斯威士兰",
+      "name_en": "Swaziland",
+      "code": "SZ",
+      "coordinate": {
+        "longitude": 31.5,
+        "latitude": -26.57
+      }
     },
     {
         "name_cn": "特里斯坦",
@@ -2344,5 +2344,32 @@
             "longitude": 30,
             "latitude": -20
         }
+    },
+    {
+        "name_cn": "南乔治亚岛和南桑威奇群岛",
+        "name_en": "S. Geo. and S. Sandw. Is.",
+        "code": "GS",
+        "coordinate": {
+            "longitude": -36.75,
+            "latitude": -54.25
+        }
+    },
+    {
+        "name_cn": "法属南部和南极领地",
+        "name_en": "Fr. S. Antarctic Lands",
+        "code": "TF",
+        "coordinate": {
+            "longitude": 69.35,
+            "latitude": -49.28
+        }
+    },
+    {
+      "name_cn": "赫德岛和麦克唐纳群岛",
+      "name_en": "Heard I. and McDonald Is.",
+      "code": "HM",
+      "coordinate": {
+        "longitude": 73.52,
+        "latitude": -53.10
+      }
     }
 ]
