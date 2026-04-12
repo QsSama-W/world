@@ -501,15 +501,6 @@
         }
     },
     {
-        "name_cn": "CQ",
-        "name_en": "CQ",
-        "code": "CQ",
-        "coordinate": {
-            "longitude": 0,
-            "latitude": 0
-        }
-    },
-    {
         "name_cn": "哥斯达黎加",
         "name_en": "Costa Rica",
         "code": "CR",
@@ -897,15 +888,6 @@
         }
     },
     {
-        "name_cn": "南乔治亚",
-        "name_en": "South Georgia",
-        "code": "GS",
-        "coordinate": {
-            "longitude": -36.5,
-            "latitude": -54.43
-        }
-    },
-    {
         "name_cn": "危地马拉",
         "name_en": "Guatemala",
         "code": "GT",
@@ -939,15 +921,6 @@
         "coordinate": {
             "longitude": -59,
             "latitude": 5
-        }
-    },
-    {
-        "name_cn": "赫德岛",
-        "name_en": "Heard Island",
-        "code": "HM",
-        "coordinate": {
-            "longitude": 73.5,
-            "latitude": -53.1
         }
     },
     {
@@ -2028,15 +2001,6 @@
         "coordinate": {
             "longitude": 15,
             "latitude": 15
-        }
-    },
-    {
-        "name_cn": "法属南部领地",
-        "name_en": "French Southern Territories",
-        "code": "TF",
-        "coordinate": {
-            "longitude": 69.25,
-            "latitude": -49.25
         }
     },
     {
