@@ -1015,7 +1015,7 @@
     },
     {
         "name_cn": "英属印度洋领地",
-        "name_en": "British Indian Ocean Territory",
+        "name_en": "Br. Indian Ocean Ter.",
         "code": "IO",
         "coordinate": {
             "longitude": 71.5,
@@ -1627,7 +1627,7 @@
     },
     {
         "name_cn": "法属波利尼西亚",
-        "name_en": "French Polynesia",
+        "name_en": "Fr. Polynesia",
         "code": "PF",
         "coordinate": {
             "longitude": -140,
