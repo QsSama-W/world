@@ -1,2348 +1,2348 @@
 [
-  {
-    "name_cn": "中国",
-    "name_en": "China",
-    "code": "CN",
-    "coordinate": {
-      "longitude": 104,
-      "latitude": 35
+    {
+        "name_cn": "中国",
+        "name_en": "China",
+        "code": "CN",
+        "coordinate": {
+            "longitude": 104,
+            "latitude": 35
+        }
+    },
+    {
+        "name_cn": "中国香港",
+        "name_en": "Hong Kong, China",
+        "code": "HK",
+        "coordinate": {
+            "longitude": 114.15,
+            "latitude": 22.15
+        }
+    },
+    {
+        "name_cn": "中国澳门",
+        "name_en": "Macao, China",
+        "code": "MO",
+        "coordinate": {
+            "longitude": 113.5,
+            "latitude": 22.16
+        }
+    },
+    {
+        "name_cn": "中国台湾",
+        "name_en": "Taiwan, China",
+        "code": "TW",
+        "coordinate": {
+            "longitude": 121,
+            "latitude": 23.5
+        }
+    },
+    {
+        "name_cn": "英格兰",
+        "name_en": "England",
+        "code": "England",
+        "coordinate": null
+    },
+    {
+        "name_cn": "苏格兰",
+        "name_en": "Scotland",
+        "code": "Scotland",
+        "coordinate": null
+    },
+    {
+        "name_cn": "威尔士",
+        "name_en": "Wales",
+        "code": "Wales",
+        "coordinate": null
+    },
+    {
+        "name_cn": "阿森松岛",
+        "name_en": "Ascension Island",
+        "code": "AC",
+        "coordinate": null
+    },
+    {
+        "name_cn": "安道尔",
+        "name_en": "Andorra",
+        "code": "AD",
+        "coordinate": {
+            "longitude": 1.5,
+            "latitude": 42.5
+        }
+    },
+    {
+        "name_cn": "阿联酋",
+        "name_en": "United Arab Emirates",
+        "code": "AE",
+        "coordinate": {
+            "longitude": 54,
+            "latitude": 24
+        }
+    },
+    {
+        "name_cn": "阿富汗",
+        "name_en": "Afghanistan",
+        "code": "AF",
+        "coordinate": {
+            "longitude": 65,
+            "latitude": 33
+        }
+    },
+    {
+        "name_cn": "安提瓜和巴布达",
+        "name_en": "Antigua and Barbuda",
+        "code": "AG",
+        "coordinate": {
+            "longitude": -61.8,
+            "latitude": 17.05
+        }
+    },
+    {
+        "name_cn": "安圭拉",
+        "name_en": "Anguilla",
+        "code": "AI",
+        "coordinate": {
+            "longitude": -63,
+            "latitude": 18.25
+        }
+    },
+    {
+        "name_cn": "阿尔巴尼亚",
+        "name_en": "Albania",
+        "code": "AL",
+        "coordinate": {
+            "longitude": 20,
+            "latitude": 41
+        }
+    },
+    {
+        "name_cn": "亚美尼亚",
+        "name_en": "Armenia",
+        "code": "AM",
+        "coordinate": {
+            "longitude": 45,
+            "latitude": 40
+        }
+    },
+    {
+        "name_cn": "安哥拉",
+        "name_en": "Angola",
+        "code": "AO",
+        "coordinate": {
+            "longitude": 18.5,
+            "latitude": -11.2
+        }
+    },
+    {
+        "name_cn": "南极洲",
+        "name_en": "Antarctica",
+        "code": "AQ",
+        "coordinate": {
+            "longitude": 0,
+            "latitude": -90
+        }
+    },
+    {
+        "name_cn": "阿根廷",
+        "name_en": "Argentina",
+        "code": "AR",
+        "coordinate": {
+            "longitude": -64,
+            "latitude": -34
+        }
+    },
+    {
+        "name_cn": "美属萨摩亚",
+        "name_en": "American Samoa",
+        "code": "AS",
+        "coordinate": {
+            "longitude": -170.5,
+            "latitude": -14.33
+        }
+    },
+    {
+        "name_cn": "奥地利",
+        "name_en": "Austria",
+        "code": "AT",
+        "coordinate": {
+            "longitude": 13.33,
+            "latitude": 47.33
+        }
+    },
+    {
+        "name_cn": "澳大利亚",
+        "name_en": "Australia",
+        "code": "AU",
+        "coordinate": {
+            "longitude": 133,
+            "latitude": -27
+        }
+    },
+    {
+        "name_cn": "阿鲁巴",
+        "name_en": "Aruba",
+        "code": "AW",
+        "coordinate": {
+            "longitude": -69.96,
+            "latitude": 12.52
+        }
+    },
+    {
+        "name_cn": "奥兰群岛",
+        "name_en": "Aland Islands",
+        "code": "AX",
+        "coordinate": {
+            "longitude": 19.9,
+            "latitude": 60.11
+        }
+    },
+    {
+        "name_cn": "阿塞拜疆",
+        "name_en": "Azerbaijan",
+        "code": "AZ",
+        "coordinate": {
+            "longitude": 47.5,
+            "latitude": 40.5
+        }
+    },
+    {
+        "name_cn": "波黑",
+        "name_en": "Bosnia and Herzegovina",
+        "code": "BA",
+        "coordinate": {
+            "longitude": 18,
+            "latitude": 44
+        }
+    },
+    {
+        "name_cn": "巴巴多斯",
+        "name_en": "Barbados",
+        "code": "BB",
+        "coordinate": {
+            "longitude": -59.53,
+            "latitude": 13.16
+        }
+    },
+    {
+        "name_cn": "孟加拉国",
+        "name_en": "Bangladesh",
+        "code": "BD",
+        "coordinate": {
+            "longitude": 90,
+            "latitude": 24
+        }
+    },
+    {
+        "name_cn": "比利时",
+        "name_en": "Belgium",
+        "code": "BE",
+        "coordinate": {
+            "longitude": 4.83,
+            "latitude": 50.83
+        }
+    },
+    {
+        "name_cn": "布基纳法索",
+        "name_en": "Burkina Faso",
+        "code": "BF",
+        "coordinate": {
+            "longitude": -2,
+            "latitude": 13
+        }
+    },
+    {
+        "name_cn": "保加利亚",
+        "name_en": "Bulgaria",
+        "code": "BG",
+        "coordinate": {
+            "longitude": 25,
+            "latitude": 43
+        }
+    },
+    {
+        "name_cn": "巴林",
+        "name_en": "Bahrain",
+        "code": "BH",
+        "coordinate": {
+            "longitude": 50.55,
+            "latitude": 26
+        }
+    },
+    {
+        "name_cn": "布隆迪",
+        "name_en": "Burundi",
+        "code": "BI",
+        "coordinate": {
+            "longitude": 30,
+            "latitude": -3.5
+        }
+    },
+    {
+        "name_cn": "贝宁",
+        "name_en": "Benin",
+        "code": "BJ",
+        "coordinate": {
+            "longitude": 2,
+            "latitude": 9.5
+        }
+    },
+    {
+        "name_cn": "圣巴泰勒米",
+        "name_en": "Saint Barthelemy",
+        "code": "BL",
+        "coordinate": {
+            "longitude": -62.83,
+            "latitude": 17.9
+        }
+    },
+    {
+        "name_cn": "百慕大",
+        "name_en": "Bermuda",
+        "code": "BM",
+        "coordinate": {
+            "longitude": -64.8,
+            "latitude": 32.33
+        }
+    },
+    {
+        "name_cn": "文莱",
+        "name_en": "Brunei",
+        "code": "BN",
+        "coordinate": {
+            "longitude": 114.66,
+            "latitude": 4.5
+        }
+    },
+    {
+        "name_cn": "玻利维亚",
+        "name_en": "Bolivia",
+        "code": "BO",
+        "coordinate": {
+            "longitude": -65,
+            "latitude": -15
+        }
+    },
+    {
+        "name_cn": "荷属加勒比",
+        "name_en": "Caribbean Netherlands",
+        "code": "BQ",
+        "coordinate": {
+            "longitude": -68.23,
+            "latitude": 12.18
+        }
+    },
+    {
+        "name_cn": "巴西",
+        "name_en": "Brazil",
+        "code": "BR",
+        "coordinate": {
+            "longitude": -55,
+            "latitude": -10
+        }
+    },
+    {
+        "name_cn": "巴哈马",
+        "name_en": "Bahamas",
+        "code": "BS",
+        "coordinate": {
+            "longitude": -78,
+            "latitude": 24
+        }
+    },
+    {
+        "name_cn": "不丹",
+        "name_en": "Bhutan",
+        "code": "BT",
+        "coordinate": {
+            "longitude": 90.5,
+            "latitude": 27.5
+        }
+    },
+    {
+        "name_cn": "布韦岛",
+        "name_en": "Bouvet Island",
+        "code": "BV",
+        "coordinate": {
+            "longitude": 3.34,
+            "latitude": -54.42
+        }
+    },
+    {
+        "name_cn": "博茨瓦纳",
+        "name_en": "Botswana",
+        "code": "BW",
+        "coordinate": {
+            "longitude": 24,
+            "latitude": -22
+        }
+    },
+    {
+        "name_cn": "白俄罗斯",
+        "name_en": "Belarus",
+        "code": "BY",
+        "coordinate": {
+            "longitude": 28,
+            "latitude": 54
+        }
+    },
+    {
+        "name_cn": "伯利兹",
+        "name_en": "Belize",
+        "code": "BZ",
+        "coordinate": {
+            "longitude": -88.75,
+            "latitude": 17.25
+        }
+    },
+    {
+        "name_cn": "加拿大",
+        "name_en": "Canada",
+        "code": "CA",
+        "coordinate": {
+            "longitude": -95,
+            "latitude": 60
+        }
+    },
+    {
+        "name_cn": "科科斯群岛",
+        "name_en": "Cocos Islands",
+        "code": "CC",
+        "coordinate": {
+            "longitude": 96.83,
+            "latitude": -12.16
+        }
+    },
+    {
+        "name_cn": "刚果(金)",
+        "name_en": "Congo (DRC)",
+        "code": "CD",
+        "coordinate": {
+            "longitude": 25,
+            "latitude": 0
+        }
+    },
+    {
+        "name_cn": "中非",
+        "name_en": "Central African Republic",
+        "code": "CF",
+        "coordinate": {
+            "longitude": 21,
+            "latitude": 7
+        }
+    },
+    {
+        "name_cn": "刚果(布)",
+        "name_en": "Congo (Republic)",
+        "code": "CG",
+        "coordinate": {
+            "longitude": 15,
+            "latitude": -1
+        }
+    },
+    {
+        "name_cn": "瑞士",
+        "name_en": "Switzerland",
+        "code": "CH",
+        "coordinate": {
+            "longitude": 8,
+            "latitude": 47
+        }
+    },
+    {
+        "name_cn": "科特迪瓦",
+        "name_en": "Cote d'Ivoire",
+        "code": "CI",
+        "coordinate": {
+            "longitude": -5,
+            "latitude": 8
+        }
+    },
+    {
+        "name_cn": "库克群岛",
+        "name_en": "Cook Islands",
+        "code": "CK",
+        "coordinate": {
+            "longitude": -159.76,
+            "latitude": -21.23
+        }
+    },
+    {
+        "name_cn": "智利",
+        "name_en": "Chile",
+        "code": "CL",
+        "coordinate": {
+            "longitude": -71,
+            "latitude": -30
+        }
+    },
+    {
+        "name_cn": "喀麦隆",
+        "name_en": "Cameroon",
+        "code": "CM",
+        "coordinate": {
+            "longitude": 12,
+            "latitude": 6
+        }
+    },
+    {
+        "name_cn": "哥伦比亚",
+        "name_en": "Colombia",
+        "code": "CO",
+        "coordinate": {
+            "longitude": -72,
+            "latitude": 4
+        }
+    },
+    {
+        "name_cn": "克利珀顿岛",
+        "name_en": "Clipperton Island",
+        "code": "CP",
+        "coordinate": {
+            "longitude": -109.21,
+            "latitude": 10.28
+        }
+    },
+    {
+        "name_cn": "CQ",
+        "name_en": "CQ",
+        "code": "CQ",
+        "coordinate": {
+            "longitude": 0,
+            "latitude": 0
+        }
+    },
+    {
+        "name_cn": "哥斯达黎加",
+        "name_en": "Costa Rica",
+        "code": "CR",
+        "coordinate": {
+            "longitude": -84,
+            "latitude": 10
+        }
+    },
+    {
+        "name_cn": "古巴",
+        "name_en": "Cuba",
+        "code": "CU",
+        "coordinate": {
+            "longitude": -80,
+            "latitude": 21.5
+        }
+    },
+    {
+        "name_cn": "佛得角",
+        "name_en": "Cape Verde",
+        "code": "CV",
+        "coordinate": {
+            "longitude": -24,
+            "latitude": 16
+        }
+    },
+    {
+        "name_cn": "库拉索",
+        "name_en": "Curacao",
+        "code": "CW",
+        "coordinate": {
+            "longitude": -69,
+            "latitude": 12.11
+        }
+    },
+    {
+        "name_cn": "圣诞岛",
+        "name_en": "Christmas Island",
+        "code": "CX",
+        "coordinate": {
+            "longitude": 105.66,
+            "latitude": -10.5
+        }
+    },
+    {
+        "name_cn": "塞浦路斯",
+        "name_en": "Cyprus",
+        "code": "CY",
+        "coordinate": {
+            "longitude": 33,
+            "latitude": 35
+        }
+    },
+    {
+        "name_cn": "捷克",
+        "name_en": "Czech Republic",
+        "code": "CZ",
+        "coordinate": {
+            "longitude": 15,
+            "latitude": 49.75
+        }
+    },
+    {
+        "name_cn": "德国",
+        "name_en": "Germany",
+        "code": "DE",
+        "coordinate": {
+            "longitude": 9,
+            "latitude": 51
+        }
+    },
+    {
+        "name_cn": "迪戈加西亚",
+        "name_en": "Diego Garcia",
+        "code": "DG",
+        "coordinate": {
+            "longitude": 72.4,
+            "latitude": -7.3
+        }
+    },
+    {
+        "name_cn": "吉布提",
+        "name_en": "Djibouti",
+        "code": "DJ",
+        "coordinate": {
+            "longitude": 43,
+            "latitude": 11.5
+        }
+    },
+    {
+        "name_cn": "丹麦",
+        "name_en": "Denmark",
+        "code": "DK",
+        "coordinate": {
+            "longitude": 10,
+            "latitude": 56
+        }
+    },
+    {
+        "name_cn": "多米尼克",
+        "name_en": "Dominica",
+        "code": "DM",
+        "coordinate": {
+            "longitude": -61.33,
+            "latitude": 15.41
+        }
+    },
+    {
+        "name_cn": "多米尼加",
+        "name_en": "Dominican Republic",
+        "code": "DO",
+        "coordinate": {
+            "longitude": -70.66,
+            "latitude": 19
+        }
+    },
+    {
+        "name_cn": "阿尔及利亚",
+        "name_en": "Algeria",
+        "code": "DZ",
+        "coordinate": {
+            "longitude": 3,
+            "latitude": 28
+        }
+    },
+    {
+        "name_cn": "休达及梅利利亚",
+        "name_en": "Ceuta and Melilla",
+        "code": "EA",
+        "coordinate": {
+            "longitude": -5.3,
+            "latitude": 35.88
+        }
+    },
+    {
+        "name_cn": "厄瓜多尔",
+        "name_en": "Ecuador",
+        "code": "EC",
+        "coordinate": {
+            "longitude": -77.5,
+            "latitude": -2
+        }
+    },
+    {
+        "name_cn": "爱沙尼亚",
+        "name_en": "Estonia",
+        "code": "EE",
+        "coordinate": {
+            "longitude": 26,
+            "latitude": 59
+        }
+    },
+    {
+        "name_cn": "埃及",
+        "name_en": "Egypt",
+        "code": "EG",
+        "coordinate": {
+            "longitude": 30,
+            "latitude": 27
+        }
+    },
+    {
+        "name_cn": "西撒哈拉",
+        "name_en": "Western Sahara",
+        "code": "EH",
+        "coordinate": {
+            "longitude": -12,
+            "latitude": 24.5
+        }
+    },
+    {
+        "name_cn": "厄立特里亚",
+        "name_en": "Eritrea",
+        "code": "ER",
+        "coordinate": {
+            "longitude": 39,
+            "latitude": 15
+        }
+    },
+    {
+        "name_cn": "西班牙",
+        "name_en": "Spain",
+        "code": "ES",
+        "coordinate": {
+            "longitude": -4,
+            "latitude": 40
+        }
+    },
+    {
+        "name_cn": "埃塞俄比亚",
+        "name_en": "Ethiopia",
+        "code": "ET",
+        "coordinate": {
+            "longitude": 38,
+            "latitude": 8
+        }
+    },
+    {
+        "name_cn": "欧盟",
+        "name_en": "European Union",
+        "code": "EU",
+        "coordinate": {
+            "longitude": 10,
+            "latitude": 50
+        }
+    },
+    {
+        "name_cn": "芬兰",
+        "name_en": "Finland",
+        "code": "FI",
+        "coordinate": {
+            "longitude": 26,
+            "latitude": 64
+        }
+    },
+    {
+        "name_cn": "斐济",
+        "name_en": "Fiji",
+        "code": "FJ",
+        "coordinate": {
+            "longitude": 175,
+            "latitude": -18
+        }
+    },
+    {
+        "name_cn": "福克兰群岛",
+        "name_en": "Falkland Islands",
+        "code": "FK",
+        "coordinate": {
+            "longitude": -59,
+            "latitude": -51.75
+        }
+    },
+    {
+        "name_cn": "密克罗尼西亚",
+        "name_en": "Micronesia",
+        "code": "FM",
+        "coordinate": {
+            "longitude": 158.25,
+            "latitude": 6.91
+        }
+    },
+    {
+        "name_cn": "法罗群岛",
+        "name_en": "Faroe Islands",
+        "code": "FO",
+        "coordinate": {
+            "longitude": -7,
+            "latitude": 62
+        }
+    },
+    {
+        "name_cn": "法国",
+        "name_en": "France",
+        "code": "FR",
+        "coordinate": {
+            "longitude": 2,
+            "latitude": 46
+        }
+    },
+    {
+        "name_cn": "加蓬",
+        "name_en": "Gabon",
+        "code": "GA",
+        "coordinate": {
+            "longitude": 11.5,
+            "latitude": -1
+        }
+    },
+    {
+        "name_cn": "英国",
+        "name_en": "United Kingdom",
+        "code": "GB",
+        "coordinate": {
+            "longitude": -2,
+            "latitude": 54
+        }
+    },
+    {
+        "name_cn": "格林纳达",
+        "name_en": "Grenada",
+        "code": "GD",
+        "coordinate": {
+            "longitude": -61.66,
+            "latitude": 12.11
+        }
+    },
+    {
+        "name_cn": "格鲁吉亚",
+        "name_en": "Georgia",
+        "code": "GE",
+        "coordinate": {
+            "longitude": 43.5,
+            "latitude": 42
+        }
+    },
+    {
+        "name_cn": "法属圭亚那",
+        "name_en": "French Guiana",
+        "code": "GF",
+        "coordinate": {
+            "longitude": -53,
+            "latitude": 4
+        }
+    },
+    {
+        "name_cn": "根西岛",
+        "name_en": "Guernsey",
+        "code": "GG",
+        "coordinate": {
+            "longitude": -2.58,
+            "latitude": 49.46
+        }
+    },
+    {
+        "name_cn": "加纳",
+        "name_en": "Ghana",
+        "code": "GH",
+        "coordinate": {
+            "longitude": -2,
+            "latitude": 8
+        }
+    },
+    {
+        "name_cn": "直布罗陀",
+        "name_en": "Gibraltar",
+        "code": "GI",
+        "coordinate": {
+            "longitude": -5.35,
+            "latitude": 36.13
+        }
+    },
+    {
+        "name_cn": "格陵兰",
+        "name_en": "Greenland",
+        "code": "GL",
+        "coordinate": {
+            "longitude": -40,
+            "latitude": 72
+        }
+    },
+    {
+        "name_cn": "冈比亚",
+        "name_en": "Gambia",
+        "code": "GM",
+        "coordinate": {
+            "longitude": -16.56,
+            "latitude": 13.46
+        }
+    },
+    {
+        "name_cn": "几内亚",
+        "name_en": "Guinea",
+        "code": "GN",
+        "coordinate": {
+            "longitude": -10,
+            "latitude": 11
+        }
+    },
+    {
+        "name_cn": "瓜德罗普",
+        "name_en": "Guadeloupe",
+        "code": "GP",
+        "coordinate": {
+            "longitude": -61.58,
+            "latitude": 16.25
+        }
+    },
+    {
+        "name_cn": "赤道几内亚",
+        "name_en": "Equatorial Guinea",
+        "code": "GQ",
+        "coordinate": {
+            "longitude": 10,
+            "latitude": 2
+        }
+    },
+    {
+        "name_cn": "希腊",
+        "name_en": "Greece",
+        "code": "GR",
+        "coordinate": {
+            "longitude": 22,
+            "latitude": 39
+        }
+    },
+    {
+        "name_cn": "南乔治亚",
+        "name_en": "South Georgia",
+        "code": "GS",
+        "coordinate": {
+            "longitude": -36.5,
+            "latitude": -54.43
+        }
+    },
+    {
+        "name_cn": "危地马拉",
+        "name_en": "Guatemala",
+        "code": "GT",
+        "coordinate": {
+            "longitude": -90.25,
+            "latitude": 15.5
+        }
+    },
+    {
+        "name_cn": "关岛",
+        "name_en": "Guam",
+        "code": "GU",
+        "coordinate": {
+            "longitude": 144.78,
+            "latitude": 13.46
+        }
+    },
+    {
+        "name_cn": "几内亚比绍",
+        "name_en": "Guinea-Bissau",
+        "code": "GW",
+        "coordinate": {
+            "longitude": -15,
+            "latitude": 12
+        }
+    },
+    {
+        "name_cn": "圭亚那",
+        "name_en": "Guyana",
+        "code": "GY",
+        "coordinate": {
+            "longitude": -59,
+            "latitude": 5
+        }
+    },
+    {
+        "name_cn": "赫德岛",
+        "name_en": "Heard Island",
+        "code": "HM",
+        "coordinate": {
+            "longitude": 73.5,
+            "latitude": -53.1
+        }
+    },
+    {
+        "name_cn": "洪都拉斯",
+        "name_en": "Honduras",
+        "code": "HN",
+        "coordinate": {
+            "longitude": -86.5,
+            "latitude": 15
+        }
+    },
+    {
+        "name_cn": "克罗地亚",
+        "name_en": "Croatia",
+        "code": "HR",
+        "coordinate": {
+            "longitude": 15.5,
+            "latitude": 45.16
+        }
+    },
+    {
+        "name_cn": "海地",
+        "name_en": "Haiti",
+        "code": "HT",
+        "coordinate": {
+            "longitude": -72.41,
+            "latitude": 19
+        }
+    },
+    {
+        "name_cn": "匈牙利",
+        "name_en": "Hungary",
+        "code": "HU",
+        "coordinate": {
+            "longitude": 20,
+            "latitude": 47
+        }
+    },
+    {
+        "name_cn": "加那利群岛",
+        "name_en": "Canary Islands",
+        "code": "IC",
+        "coordinate": {
+            "longitude": -15.5,
+            "latitude": 28
+        }
+    },
+    {
+        "name_cn": "印尼",
+        "name_en": "Indonesia",
+        "code": "ID",
+        "coordinate": {
+            "longitude": 120,
+            "latitude": -5
+        }
+    },
+    {
+        "name_cn": "爱尔兰",
+        "name_en": "Ireland",
+        "code": "IE",
+        "coordinate": {
+            "longitude": -8,
+            "latitude": 53
+        }
+    },
+    {
+        "name_cn": "以色列",
+        "name_en": "Israel",
+        "code": "IL",
+        "coordinate": {
+            "longitude": 34.75,
+            "latitude": 31.5
+        }
+    },
+    {
+        "name_cn": "马恩岛",
+        "name_en": "Isle of Man",
+        "code": "IM",
+        "coordinate": {
+            "longitude": -4.5,
+            "latitude": 54.23
+        }
+    },
+    {
+        "name_cn": "印度",
+        "name_en": "India",
+        "code": "IN",
+        "coordinate": {
+            "longitude": 77,
+            "latitude": 20
+        }
+    },
+    {
+        "name_cn": "英属印度洋领地",
+        "name_en": "British Indian Ocean Territory",
+        "code": "IO",
+        "coordinate": {
+            "longitude": 71.5,
+            "latitude": -6
+        }
+    },
+    {
+        "name_cn": "伊拉克",
+        "name_en": "Iraq",
+        "code": "IQ",
+        "coordinate": {
+            "longitude": 44,
+            "latitude": 33
+        }
+    },
+    {
+        "name_cn": "伊朗",
+        "name_en": "Iran",
+        "code": "IR",
+        "coordinate": {
+            "longitude": 53,
+            "latitude": 32
+        }
+    },
+    {
+        "name_cn": "冰岛",
+        "name_en": "Iceland",
+        "code": "IS",
+        "coordinate": {
+            "longitude": -18,
+            "latitude": 65
+        }
+    },
+    {
+        "name_cn": "意大利",
+        "name_en": "Italy",
+        "code": "IT",
+        "coordinate": {
+            "longitude": 12.83,
+            "latitude": 42.83
+        }
+    },
+    {
+        "name_cn": "泽西岛",
+        "name_en": "Jersey",
+        "code": "JE",
+        "coordinate": {
+            "longitude": -2.11,
+            "latitude": 49.21
+        }
+    },
+    {
+        "name_cn": "牙买加",
+        "name_en": "Jamaica",
+        "code": "JM",
+        "coordinate": {
+            "longitude": -77.5,
+            "latitude": 18.25
+        }
+    },
+    {
+        "name_cn": "约旦",
+        "name_en": "Jordan",
+        "code": "JO",
+        "coordinate": {
+            "longitude": 36,
+            "latitude": 31
+        }
+    },
+    {
+        "name_cn": "日本",
+        "name_en": "Japan",
+        "code": "JP",
+        "coordinate": {
+            "longitude": 138,
+            "latitude": 36
+        }
+    },
+    {
+        "name_cn": "肯尼亚",
+        "name_en": "Kenya",
+        "code": "KE",
+        "coordinate": {
+            "longitude": 38,
+            "latitude": 1
+        }
+    },
+    {
+        "name_cn": "吉尔吉斯斯坦",
+        "name_en": "Kyrgyzstan",
+        "code": "KG",
+        "coordinate": {
+            "longitude": 75,
+            "latitude": 41
+        }
+    },
+    {
+        "name_cn": "柬埔寨",
+        "name_en": "Cambodia",
+        "code": "KH",
+        "coordinate": {
+            "longitude": 105,
+            "latitude": 13
+        }
+    },
+    {
+        "name_cn": "基里巴斯",
+        "name_en": "Kiribati",
+        "code": "KI",
+        "coordinate": {
+            "longitude": 173,
+            "latitude": 1.41
+        }
+    },
+    {
+        "name_cn": "科摩罗",
+        "name_en": "Comoros",
+        "code": "KM",
+        "coordinate": {
+            "longitude": 44.25,
+            "latitude": -12.16
+        }
+    },
+    {
+        "name_cn": "圣基茨和尼维斯",
+        "name_en": "Saint Kitts and Nevis",
+        "code": "KN",
+        "coordinate": {
+            "longitude": -62.75,
+            "latitude": 17.33
+        }
+    },
+    {
+        "name_cn": "朝鲜",
+        "name_en": "North Korea",
+        "code": "KP",
+        "coordinate": {
+            "longitude": 127,
+            "latitude": 40
+        }
+    },
+    {
+        "name_cn": "韩国",
+        "name_en": "South Korea",
+        "code": "KR",
+        "coordinate": {
+            "longitude": 127.5,
+            "latitude": 37
+        }
+    },
+    {
+        "name_cn": "科威特",
+        "name_en": "Kuwait",
+        "code": "KW",
+        "coordinate": {
+            "longitude": 45.75,
+            "latitude": 29.5
+        }
+    },
+    {
+        "name_cn": "开曼群岛",
+        "name_en": "Cayman Islands",
+        "code": "KY",
+        "coordinate": {
+            "longitude": -80.5,
+            "latitude": 19.5
+        }
+    },
+    {
+        "name_cn": "哈萨克斯坦",
+        "name_en": "Kazakhstan",
+        "code": "KZ",
+        "coordinate": {
+            "longitude": 68,
+            "latitude": 48
+        }
+    },
+    {
+        "name_cn": "老挝",
+        "name_en": "Laos",
+        "code": "LA",
+        "coordinate": {
+            "longitude": 105,
+            "latitude": 18
+        }
+    },
+    {
+        "name_cn": "黎巴嫩",
+        "name_en": "Lebanon",
+        "code": "LB",
+        "coordinate": {
+            "longitude": 35.83,
+            "latitude": 33.83
+        }
+    },
+    {
+        "name_cn": "圣卢西亚",
+        "name_en": "Saint Lucia",
+        "code": "LC",
+        "coordinate": {
+            "longitude": -60.96,
+            "latitude": 13.88
+        }
+    },
+    {
+        "name_cn": "列支敦士登",
+        "name_en": "Liechtenstein",
+        "code": "LI",
+        "coordinate": {
+            "longitude": 9.53,
+            "latitude": 47.16
+        }
+    },
+    {
+        "name_cn": "斯里兰卡",
+        "name_en": "Sri Lanka",
+        "code": "LK",
+        "coordinate": {
+            "longitude": 81,
+            "latitude": 7
+        }
+    },
+    {
+        "name_cn": "利比里亚",
+        "name_en": "Liberia",
+        "code": "LR",
+        "coordinate": {
+            "longitude": -9,
+            "latitude": 9.5
+        }
+    },
+    {
+        "name_cn": "莱索托",
+        "name_en": "Lesotho",
+        "code": "LS",
+        "coordinate": {
+            "longitude": 28.5,
+            "latitude": -29.5
+        }
+    },
+    {
+        "name_cn": "立陶宛",
+        "name_en": "Lithuania",
+        "code": "LT",
+        "coordinate": {
+            "longitude": 24,
+            "latitude": 56
+        }
+    },
+    {
+        "name_cn": "卢森堡",
+        "name_en": "Luxembourg",
+        "code": "LU",
+        "coordinate": {
+            "longitude": 6.16,
+            "latitude": 49.75
+        }
+    },
+    {
+        "name_cn": "拉脱维亚",
+        "name_en": "Latvia",
+        "code": "LV",
+        "coordinate": {
+            "longitude": 25,
+            "latitude": 57
+        }
+    },
+    {
+        "name_cn": "利比亚",
+        "name_en": "Libya",
+        "code": "LY",
+        "coordinate": {
+            "longitude": 17,
+            "latitude": 25
+        }
+    },
+    {
+        "name_cn": "摩洛哥",
+        "name_en": "Morocco",
+        "code": "MA",
+        "coordinate": {
+            "longitude": -5,
+            "latitude": 32
+        }
+    },
+    {
+        "name_cn": "摩纳哥",
+        "name_en": "Monaco",
+        "code": "MC",
+        "coordinate": {
+            "longitude": 7.4,
+            "latitude": 43.73
+        }
+    },
+    {
+        "name_cn": "摩尔多瓦",
+        "name_en": "Moldova",
+        "code": "MD",
+        "coordinate": {
+            "longitude": 29,
+            "latitude": 47
+        }
+    },
+    {
+        "name_cn": "黑山",
+        "name_en": "Montenegro",
+        "code": "ME",
+        "coordinate": {
+            "longitude": 19,
+            "latitude": 42.5
+        }
+    },
+    {
+        "name_cn": "法属圣马丁",
+        "name_en": "Saint Martin (French)",
+        "code": "MF",
+        "coordinate": {
+            "longitude": -63.05,
+            "latitude": 18.08
+        }
+    },
+    {
+        "name_cn": "马达加斯加",
+        "name_en": "Madagascar",
+        "code": "MG",
+        "coordinate": {
+            "longitude": 47,
+            "latitude": -20
+        }
+    },
+    {
+        "name_cn": "马绍尔群岛",
+        "name_en": "Marshall Islands",
+        "code": "MH",
+        "coordinate": {
+            "longitude": 171,
+            "latitude": 9
+        }
+    },
+    {
+        "name_cn": "北马其顿",
+        "name_en": "North Macedonia",
+        "code": "MK",
+        "coordinate": {
+            "longitude": 22,
+            "latitude": 41.83
+        }
+    },
+    {
+        "name_cn": "马里",
+        "name_en": "Mali",
+        "code": "ML",
+        "coordinate": {
+            "longitude": -4,
+            "latitude": 17
+        }
+    },
+    {
+        "name_cn": "缅甸",
+        "name_en": "Myanmar",
+        "code": "MM",
+        "coordinate": {
+            "longitude": 98,
+            "latitude": 21
+        }
+    },
+    {
+        "name_cn": "蒙古国",
+        "name_en": "Mongolia",
+        "code": "MN",
+        "coordinate": {
+            "longitude": 105,
+            "latitude": 46
+        }
+    },
+    {
+        "name_cn": "北马里亚纳",
+        "name_en": "Northern Mariana Islands",
+        "code": "MP",
+        "coordinate": {
+            "longitude": 145.75,
+            "latitude": 15.2
+        }
+    },
+    {
+        "name_cn": "马提尼克",
+        "name_en": "Martinique",
+        "code": "MQ",
+        "coordinate": {
+            "longitude": -61,
+            "latitude": 14.66
+        }
+    },
+    {
+        "name_cn": "毛里塔尼亚",
+        "name_en": "Mauritania",
+        "code": "MR",
+        "coordinate": {
+            "longitude": -12,
+            "latitude": 20
+        }
+    },
+    {
+        "name_cn": "蒙特塞拉特",
+        "name_en": "Montserrat",
+        "code": "MS",
+        "coordinate": {
+            "longitude": -62.2,
+            "latitude": 16.75
+        }
+    },
+    {
+        "name_cn": "马耳他",
+        "name_en": "Malta",
+        "code": "MT",
+        "coordinate": {
+            "longitude": 14.33,
+            "latitude": 35.83
+        }
+    },
+    {
+        "name_cn": "毛里求斯",
+        "name_en": "Mauritius",
+        "code": "MU",
+        "coordinate": {
+            "longitude": 57.55,
+            "latitude": -20.28
+        }
+    },
+    {
+        "name_cn": "马尔代夫",
+        "name_en": "Maldives",
+        "code": "MV",
+        "coordinate": {
+            "longitude": 73,
+            "latitude": 3.25
+        }
+    },
+    {
+        "name_cn": "马拉维",
+        "name_en": "Malawi",
+        "code": "MW",
+        "coordinate": {
+            "longitude": 34,
+            "latitude": -13.5
+        }
+    },
+    {
+        "name_cn": "墨西哥",
+        "name_en": "Mexico",
+        "code": "MX",
+        "coordinate": {
+            "longitude": -102,
+            "latitude": 23
+        }
+    },
+    {
+        "name_cn": "马来西亚",
+        "name_en": "Malaysia",
+        "code": "MY",
+        "coordinate": {
+            "longitude": 112.5,
+            "latitude": 2.5
+        }
+    },
+    {
+        "name_cn": "莫桑比克",
+        "name_en": "Mozambique",
+        "code": "MZ",
+        "coordinate": {
+            "longitude": 35,
+            "latitude": -18.25
+        }
+    },
+    {
+        "name_cn": "纳米比亚",
+        "name_en": "Namibia",
+        "code": "NA",
+        "coordinate": {
+            "longitude": 17,
+            "latitude": -22
+        }
+    },
+    {
+        "name_cn": "新喀里多尼亚",
+        "name_en": "New Caledonia",
+        "code": "NC",
+        "coordinate": {
+            "longitude": 165.5,
+            "latitude": -21.5
+        }
+    },
+    {
+        "name_cn": "尼日尔",
+        "name_en": "Niger",
+        "code": "NE",
+        "coordinate": {
+            "longitude": 8,
+            "latitude": 16
+        }
+    },
+    {
+        "name_cn": "诺福克岛",
+        "name_en": "Norfolk Island",
+        "code": "NF",
+        "coordinate": {
+            "longitude": 167.95,
+            "latitude": -29.03
+        }
+    },
+    {
+        "name_cn": "尼日利亚",
+        "name_en": "Nigeria",
+        "code": "NG",
+        "coordinate": {
+            "longitude": 8,
+            "latitude": 10
+        }
+    },
+    {
+        "name_cn": "尼加拉瓜",
+        "name_en": "Nicaragua",
+        "code": "NI",
+        "coordinate": {
+            "longitude": -85,
+            "latitude": 13
+        }
+    },
+    {
+        "name_cn": "荷兰",
+        "name_en": "Netherlands",
+        "code": "NL",
+        "coordinate": {
+            "longitude": 5.75,
+            "latitude": 52.5
+        }
+    },
+    {
+        "name_cn": "挪威",
+        "name_en": "Norway",
+        "code": "NO",
+        "coordinate": {
+            "longitude": 10,
+            "latitude": 62
+        }
+    },
+    {
+        "name_cn": "尼泊尔",
+        "name_en": "Nepal",
+        "code": "NP",
+        "coordinate": {
+            "longitude": 84,
+            "latitude": 28
+        }
+    },
+    {
+        "name_cn": "瑙鲁",
+        "name_en": "Nauru",
+        "code": "NR",
+        "coordinate": {
+            "longitude": 166.91,
+            "latitude": -0.53
+        }
+    },
+    {
+        "name_cn": "纽埃",
+        "name_en": "Niue",
+        "code": "NU",
+        "coordinate": {
+            "longitude": -169.86,
+            "latitude": -19.03
+        }
+    },
+    {
+        "name_cn": "新西兰",
+        "name_en": "New Zealand",
+        "code": "NZ",
+        "coordinate": {
+            "longitude": 174,
+            "latitude": -41
+        }
+    },
+    {
+        "name_cn": "阿曼",
+        "name_en": "Oman",
+        "code": "OM",
+        "coordinate": {
+            "longitude": 54,
+            "latitude": 21
+        }
+    },
+    {
+        "name_cn": "巴拿马",
+        "name_en": "Panama",
+        "code": "PA",
+        "coordinate": {
+            "longitude": -80,
+            "latitude": 9
+        }
+    },
+    {
+        "name_cn": "秘鲁",
+        "name_en": "Peru",
+        "code": "PE",
+        "coordinate": {
+            "longitude": -76,
+            "latitude": -10
+        }
+    },
+    {
+        "name_cn": "法属波利尼西亚",
+        "name_en": "French Polynesia",
+        "code": "PF",
+        "coordinate": {
+            "longitude": -140,
+            "latitude": -15
+        }
+    },
+    {
+        "name_cn": "巴布亚新几内亚",
+        "name_en": "Papua New Guinea",
+        "code": "PG",
+        "coordinate": {
+            "longitude": 147,
+            "latitude": -6
+        }
+    },
+    {
+        "name_cn": "菲律宾",
+        "name_en": "Philippines",
+        "code": "PH",
+        "coordinate": {
+            "longitude": 122,
+            "latitude": 13
+        }
+    },
+    {
+        "name_cn": "巴基斯坦",
+        "name_en": "Pakistan",
+        "code": "PK",
+        "coordinate": {
+            "longitude": 70,
+            "latitude": 30
+        }
+    },
+    {
+        "name_cn": "波兰",
+        "name_en": "Poland",
+        "code": "PL",
+        "coordinate": {
+            "longitude": 20,
+            "latitude": 52
+        }
+    },
+    {
+        "name_cn": "圣皮埃尔和密克隆",
+        "name_en": "Saint Pierre and Miquelon",
+        "code": "PM",
+        "coordinate": {
+            "longitude": -56.33,
+            "latitude": 46.83
+        }
+    },
+    {
+        "name_cn": "皮特凯恩",
+        "name_en": "Pitcairn Islands",
+        "code": "PN",
+        "coordinate": {
+            "longitude": -130.1,
+            "latitude": -25.06
+        }
+    },
+    {
+        "name_cn": "波多黎各",
+        "name_en": "Puerto Rico",
+        "code": "PR",
+        "coordinate": {
+            "longitude": -66.5,
+            "latitude": 18.25
+        }
+    },
+    {
+        "name_cn": "巴勒斯坦",
+        "name_en": "Palestine",
+        "code": "PS",
+        "coordinate": {
+            "longitude": 35.2,
+            "latitude": 31.9
+        }
+    },
+    {
+        "name_cn": "葡萄牙",
+        "name_en": "Portugal",
+        "code": "PT",
+        "coordinate": {
+            "longitude": -8,
+            "latitude": 39.5
+        }
+    },
+    {
+        "name_cn": "帕劳",
+        "name_en": "Palau",
+        "code": "PW",
+        "coordinate": {
+            "longitude": 134.5,
+            "latitude": 7.5
+        }
+    },
+    {
+        "name_cn": "巴拉圭",
+        "name_en": "Paraguay",
+        "code": "PY",
+        "coordinate": {
+            "longitude": -58,
+            "latitude": -23
+        }
+    },
+    {
+        "name_cn": "卡塔尔",
+        "name_en": "Qatar",
+        "code": "QA",
+        "coordinate": {
+            "longitude": 51.25,
+            "latitude": 25.5
+        }
+    },
+    {
+        "name_cn": "留尼汪",
+        "name_en": "Reunion",
+        "code": "RE",
+        "coordinate": {
+            "longitude": 55.6,
+            "latitude": -20.88
+        }
+    },
+    {
+        "name_cn": "罗马尼亚",
+        "name_en": "Romania",
+        "code": "RO",
+        "coordinate": {
+            "longitude": 25,
+            "latitude": 46
+        }
+    },
+    {
+        "name_cn": "塞尔维亚",
+        "name_en": "Serbia",
+        "code": "RS",
+        "coordinate": {
+            "longitude": 21,
+            "latitude": 44
+        }
+    },
+    {
+        "name_cn": "俄罗斯",
+        "name_en": "Russia",
+        "code": "RU",
+        "coordinate": {
+            "longitude": 100,
+            "latitude": 60
+        }
+    },
+    {
+        "name_cn": "卢旺达",
+        "name_en": "Rwanda",
+        "code": "RW",
+        "coordinate": {
+            "longitude": 30,
+            "latitude": -2
+        }
+    },
+    {
+        "name_cn": "沙特",
+        "name_en": "Saudi Arabia",
+        "code": "SA",
+        "coordinate": {
+            "longitude": 45,
+            "latitude": 25
+        }
+    },
+    {
+        "name_cn": "所罗门群岛",
+        "name_en": "Solomon Islands",
+        "code": "SB",
+        "coordinate": {
+            "longitude": 159,
+            "latitude": -8
+        }
+    },
+    {
+        "name_cn": "塞舌尔",
+        "name_en": "Seychelles",
+        "code": "SC",
+        "coordinate": {
+            "longitude": 55.66,
+            "latitude": -4.58
+        }
+    },
+    {
+        "name_cn": "苏丹",
+        "name_en": "Sudan",
+        "code": "SD",
+        "coordinate": {
+            "longitude": 30,
+            "latitude": 15
+        }
+    },
+    {
+        "name_cn": "瑞典",
+        "name_en": "Sweden",
+        "code": "SE",
+        "coordinate": {
+            "longitude": 15,
+            "latitude": 62
+        }
+    },
+    {
+        "name_cn": "新加坡",
+        "name_en": "Singapore",
+        "code": "SG",
+        "coordinate": {
+            "longitude": 103.8,
+            "latitude": 1.36
+        }
+    },
+    {
+        "name_cn": "圣赫勒拿",
+        "name_en": "Saint Helena",
+        "code": "SH",
+        "coordinate": {
+            "longitude": -5.71,
+            "latitude": -15.95
+        }
+    },
+    {
+        "name_cn": "斯洛文尼亚",
+        "name_en": "Slovenia",
+        "code": "SI",
+        "coordinate": {
+            "longitude": 15,
+            "latitude": 46
+        }
+    },
+    {
+        "name_cn": "斯瓦尔巴",
+        "name_en": "Svalbard",
+        "code": "SJ",
+        "coordinate": {
+            "longitude": 20,
+            "latitude": 78
+        }
+    },
+    {
+        "name_cn": "斯洛伐克",
+        "name_en": "Slovakia",
+        "code": "SK",
+        "coordinate": {
+            "longitude": 19.5,
+            "latitude": 48.66
+        }
+    },
+    {
+        "name_cn": "塞拉利昂",
+        "name_en": "Sierra Leone",
+        "code": "SL",
+        "coordinate": {
+            "longitude": -11.5,
+            "latitude": 8.5
+        }
+    },
+    {
+        "name_cn": "圣马力诺",
+        "name_en": "San Marino",
+        "code": "SM",
+        "coordinate": {
+            "longitude": 12.41,
+            "latitude": 43.76
+        }
+    },
+    {
+        "name_cn": "塞内加尔",
+        "name_en": "Senegal",
+        "code": "SN",
+        "coordinate": {
+            "longitude": -14,
+            "latitude": 14
+        }
+    },
+    {
+        "name_cn": "索马里",
+        "name_en": "Somalia",
+        "code": "SO",
+        "coordinate": {
+            "longitude": 49,
+            "latitude": 10
+        }
+    },
+    {
+        "name_cn": "苏里南",
+        "name_en": "Suriname",
+        "code": "SR",
+        "coordinate": {
+            "longitude": -56,
+            "latitude": 4
+        }
+    },
+    {
+        "name_cn": "南苏丹",
+        "name_en": "South Sudan",
+        "code": "SS",
+        "coordinate": {
+            "longitude": 30,
+            "latitude": 7
+        }
+    },
+    {
+        "name_cn": "圣多美和普林西比",
+        "name_en": "Sao Tome and Principe",
+        "code": "ST",
+        "coordinate": {
+            "longitude": 6.25,
+            "latitude": 1
+        }
+    },
+    {
+        "name_cn": "萨尔瓦多",
+        "name_en": "El Salvador",
+        "code": "SV",
+        "coordinate": {
+            "longitude": -88.91,
+            "latitude": 13.83
+        }
+    },
+    {
+        "name_cn": "荷属圣马丁",
+        "name_en": "Sint Maarten",
+        "code": "SX",
+        "coordinate": {
+            "longitude": -63.05,
+            "latitude": 18.03
+        }
+    },
+    {
+        "name_cn": "叙利亚",
+        "name_en": "Syria",
+        "code": "SY",
+        "coordinate": {
+            "longitude": 38,
+            "latitude": 35
+        }
+    },
+    {
+        "name_cn": "斯威士兰",
+        "name_en": "Eswatini",
+        "code": "SZ",
+        "coordinate": {
+            "longitude": 31.5,
+            "latitude": -26.5
+        }
+    },
+    {
+        "name_cn": "特里斯坦",
+        "name_en": "Tristan da Cunha",
+        "code": "TA",
+        "coordinate": {
+            "longitude": -12.28,
+            "latitude": -37.1
+        }
+    },
+    {
+        "name_cn": "特克斯和凯科斯",
+        "name_en": "Turks and Caicos Islands",
+        "code": "TC",
+        "coordinate": {
+            "longitude": -71.58,
+            "latitude": 21.75
+        }
+    },
+    {
+        "name_cn": "乍得",
+        "name_en": "Chad",
+        "code": "TD",
+        "coordinate": {
+            "longitude": 15,
+            "latitude": 15
+        }
+    },
+    {
+        "name_cn": "法属南部领地",
+        "name_en": "French Southern Territories",
+        "code": "TF",
+        "coordinate": {
+            "longitude": 69.25,
+            "latitude": -49.25
+        }
+    },
+    {
+        "name_cn": "多哥",
+        "name_en": "Togo",
+        "code": "TG",
+        "coordinate": {
+            "longitude": 1.16,
+            "latitude": 8
+        }
+    },
+    {
+        "name_cn": "泰国",
+        "name_en": "Thailand",
+        "code": "TH",
+        "coordinate": {
+            "longitude": 100,
+            "latitude": 15
+        }
+    },
+    {
+        "name_cn": "塔吉克斯坦",
+        "name_en": "Tajikistan",
+        "code": "TJ",
+        "coordinate": {
+            "longitude": 71,
+            "latitude": 39
+        }
+    },
+    {
+        "name_cn": "托克劳",
+        "name_en": "Tokelau",
+        "code": "TK",
+        "coordinate": {
+            "longitude": -172,
+            "latitude": -9
+        }
+    },
+    {
+        "name_cn": "东帝汶",
+        "name_en": "Timor-Leste",
+        "code": "TL",
+        "coordinate": {
+            "longitude": 125.91,
+            "latitude": -8.83
+        }
+    },
+    {
+        "name_cn": "土库曼斯坦",
+        "name_en": "Turkmenistan",
+        "code": "TM",
+        "coordinate": {
+            "longitude": 59.5,
+            "latitude": 40
+        }
+    },
+    {
+        "name_cn": "突尼斯",
+        "name_en": "Tunisia",
+        "code": "TN",
+        "coordinate": {
+            "longitude": 9,
+            "latitude": 34
+        }
+    },
+    {
+        "name_cn": "汤加",
+        "name_en": "Tonga",
+        "code": "TO",
+        "coordinate": {
+            "longitude": -175,
+            "latitude": -20
+        }
+    },
+    {
+        "name_cn": "土耳其",
+        "name_en": "Turkey",
+        "code": "TR",
+        "coordinate": {
+            "longitude": 35,
+            "latitude": 39
+        }
+    },
+    {
+        "name_cn": "特立尼达和多巴哥",
+        "name_en": "Trinidad and Tobago",
+        "code": "TT",
+        "coordinate": {
+            "longitude": -61,
+            "latitude": 11
+        }
+    },
+    {
+        "name_cn": "图瓦卢",
+        "name_en": "Tuvalu",
+        "code": "TV",
+        "coordinate": {
+            "longitude": 178,
+            "latitude": -8
+        }
+    },
+    {
+        "name_cn": "坦桑尼亚",
+        "name_en": "Tanzania",
+        "code": "TZ",
+        "coordinate": {
+            "longitude": 34.88,
+            "latitude": -6.25
+        }
+    },
+    {
+        "name_cn": "乌克兰",
+        "name_en": "Ukraine",
+        "code": "UA",
+        "coordinate": {
+            "longitude": 32,
+            "latitude": 49
+        }
+    },
+    {
+        "name_cn": "乌干达",
+        "name_en": "Uganda",
+        "code": "UG",
+        "coordinate": {
+            "longitude": 32,
+            "latitude": 1
+        }
+    },
+    {
+        "name_cn": "美国本土外小岛",
+        "name_en": "United States Minor Outlying Islands",
+        "code": "UM",
+        "coordinate": {
+            "longitude": -166.6,
+            "latitude": 19.3
+        }
+    },
+    {
+        "name_cn": "联合国",
+        "name_en": "United Nations",
+        "code": "UN",
+        "coordinate": {
+            "longitude": 0,
+            "latitude": 0
+        }
+    },
+    {
+        "name_cn": "美国",
+        "name_en": "United States",
+        "code": "US",
+        "coordinate": {
+            "longitude": -97,
+            "latitude": 38
+        }
+    },
+    {
+        "name_cn": "乌拉圭",
+        "name_en": "Uruguay",
+        "code": "UY",
+        "coordinate": {
+            "longitude": -56,
+            "latitude": -33
+        }
+    },
+    {
+        "name_cn": "乌兹别克斯坦",
+        "name_en": "Uzbekistan",
+        "code": "UZ",
+        "coordinate": {
+            "longitude": 64,
+            "latitude": 41
+        }
+    },
+    {
+        "name_cn": "梵蒂冈",
+        "name_en": "Vatican City",
+        "code": "VA",
+        "coordinate": {
+            "longitude": 12.45,
+            "latitude": 41.9
+        }
+    },
+    {
+        "name_cn": "圣文森特",
+        "name_en": "Saint Vincent",
+        "code": "VC",
+        "coordinate": {
+            "longitude": -61.2,
+            "latitude": 13.25
+        }
+    },
+    {
+        "name_cn": "委内瑞拉",
+        "name_en": "Venezuela",
+        "code": "VE",
+        "coordinate": {
+            "longitude": -66,
+            "latitude": 8
+        }
+    },
+    {
+        "name_cn": "英属维尔京",
+        "name_en": "British Virgin Islands",
+        "code": "VG",
+        "coordinate": {
+            "longitude": -64.5,
+            "latitude": 18.43
+        }
+    },
+    {
+        "name_cn": "美属维尔京",
+        "name_en": "United States Virgin Islands",
+        "code": "VI",
+        "coordinate": {
+            "longitude": -64.83,
+            "latitude": 18.33
+        }
+    },
+    {
+        "name_cn": "越南",
+        "name_en": "Vietnam",
+        "code": "VN",
+        "coordinate": {
+            "longitude": 106.16,
+            "latitude": 16.16
+        }
+    },
+    {
+        "name_cn": "瓦努阿图",
+        "name_en": "Vanuatu",
+        "code": "VU",
+        "coordinate": {
+            "longitude": 167,
+            "latitude": -16
+        }
+    },
+    {
+        "name_cn": "瓦利斯和富图纳",
+        "name_en": "Wallis and Futuna",
+        "code": "WF",
+        "coordinate": {
+            "longitude": -176.2,
+            "latitude": -13.3
+        }
+    },
+    {
+        "name_cn": "萨摩亚",
+        "name_en": "Samoa",
+        "code": "WS",
+        "coordinate": {
+            "longitude": -172.33,
+            "latitude": -13.5
+        }
+    },
+    {
+        "name_cn": "科索沃",
+        "name_en": "Kosovo",
+        "code": "XK",
+        "coordinate": {
+            "longitude": 20.9,
+            "latitude": 42.6
+        }
+    },
+    {
+        "name_cn": "也门",
+        "name_en": "Yemen",
+        "code": "YE",
+        "coordinate": {
+            "longitude": 48,
+            "latitude": 15
+        }
+    },
+    {
+        "name_cn": "马约特",
+        "name_en": "Mayotte",
+        "code": "YT",
+        "coordinate": {
+            "longitude": 45.16,
+            "latitude": -12.83
+        }
+    },
+    {
+        "name_cn": "南非",
+        "name_en": "South Africa",
+        "code": "ZA",
+        "coordinate": {
+            "longitude": 24,
+            "latitude": -29
+        }
+    },
+    {
+        "name_cn": "赞比亚",
+        "name_en": "Zambia",
+        "code": "ZM",
+        "coordinate": {
+            "longitude": 30,
+            "latitude": -15
+        }
+    },
+    {
+        "name_cn": "津巴布韦",
+        "name_en": "Zimbabwe",
+        "code": "ZW",
+        "coordinate": {
+            "longitude": 30,
+            "latitude": -20
+        }
     }
-  },
-  {
-    "name_cn": "中国香港",
-    "name_en": "Hong Kong, China",
-    "code": "HK",
-    "coordinate": {
-      "longitude": 114.15,
-      "latitude": 22.15
-    }
-  },
-  {
-    "name_cn": "中国澳门",
-    "name_en": "Macao, China",
-    "code": "MO",
-    "coordinate": {
-      "longitude": 113.5,
-      "latitude": 22.16
-    }
-  },
-  {
-    "name_cn": "中国台湾",
-    "name_en": "Taiwan, China",
-    "code": "TW",
-    "coordinate": {
-      "longitude": 121,
-      "latitude": 23.5
-    }
-  },
-  {
-    "name_cn": "英格兰",
-    "name_en": "England",
-    "code": "England",
-    "coordinate": null
-  },
-  {
-    "name_cn": "苏格兰",
-    "name_en": "Scotland",
-    "code": "Scotland",
-    "coordinate": null
-  },
-  {
-    "name_cn": "威尔士",
-    "name_en": "Wales",
-    "code": "Wales",
-    "coordinate": null
-  },
-  {
-    "name_cn": "阿森松岛",
-    "name_en": "Ascension Island",
-    "code": "AC",
-    "coordinate": null
-  },
-  {
-    "name_cn": "安道尔",
-    "name_en": "Andorra",
-    "code": "AD",
-    "coordinate": {
-      "longitude": 1.5,
-      "latitude": 42.5
-    }
-  },
-  {
-    "name_cn": "阿联酋",
-    "name_en": "United Arab Emirates",
-    "code": "AE",
-    "coordinate": {
-      "longitude": 54,
-      "latitude": 24
-    }
-  },
-  {
-    "name_cn": "阿富汗",
-    "name_en": "Afghanistan",
-    "code": "AF",
-    "coordinate": {
-      "longitude": 65,
-      "latitude": 33
-    }
-  },
-  {
-    "name_cn": "安提瓜和巴布达",
-    "name_en": "Antigua and Barbuda",
-    "code": "AG",
-    "coordinate": {
-      "longitude": -61.8,
-      "latitude": 17.05
-    }
-  },
-  {
-    "name_cn": "安圭拉",
-    "name_en": "Anguilla",
-    "code": "AI",
-    "coordinate": {
-      "longitude": -63,
-      "latitude": 18.25
-    }
-  },
-  {
-    "name_cn": "阿尔巴尼亚",
-    "name_en": "Albania",
-    "code": "AL",
-    "coordinate": {
-      "longitude": 20,
-      "latitude": 41
-    }
-  },
-  {
-    "name_cn": "亚美尼亚",
-    "name_en": "Armenia",
-    "code": "AM",
-    "coordinate": {
-      "longitude": 45,
-      "latitude": 40
-    }
-  },
-  {
-    "name_cn": "安哥拉",
-    "name_en": "Angola",
-    "code": "AO",
-    "coordinate": {
-      "longitude": 18.5,
-      "latitude": -11.2
-    }
-  },
-  {
-    "name_cn": "南极洲",
-    "name_en": "Antarctica",
-    "code": "AQ",
-    "coordinate": {
-      "longitude": 0,
-      "latitude": -90
-    }
-  },
-  {
-    "name_cn": "阿根廷",
-    "name_en": "Argentina",
-    "code": "AR",
-    "coordinate": {
-      "longitude": -64,
-      "latitude": -34
-    }
-  },
-  {
-    "name_cn": "美属萨摩亚",
-    "name_en": "American Samoa",
-    "code": "AS",
-    "coordinate": {
-      "longitude": -170.5,
-      "latitude": -14.33
-    }
-  },
-  {
-    "name_cn": "奥地利",
-    "name_en": "Austria",
-    "code": "AT",
-    "coordinate": {
-      "longitude": 13.33,
-      "latitude": 47.33
-    }
-  },
-  {
-    "name_cn": "澳大利亚",
-    "name_en": "Australia",
-    "code": "AU",
-    "coordinate": {
-      "longitude": 133,
-      "latitude": -27
-    }
-  },
-  {
-    "name_cn": "阿鲁巴",
-    "name_en": "Aruba",
-    "code": "AW",
-    "coordinate": {
-      "longitude": -69.96,
-      "latitude": 12.52
-    }
-  },
-  {
-    "name_cn": "奥兰群岛",
-    "name_en": "Aland Islands",
-    "code": "AX",
-    "coordinate": {
-      "longitude": 19.9,
-      "latitude": 60.11
-    }
-  },
-  {
-    "name_cn": "阿塞拜疆",
-    "name_en": "Azerbaijan",
-    "code": "AZ",
-    "coordinate": {
-      "longitude": 47.5,
-      "latitude": 40.5
-    }
-  },
-  {
-    "name_cn": "波黑",
-    "name_en": "Bosnia and Herz.",
-    "code": "BA",
-    "coordinate": {
-      "longitude": 18,
-      "latitude": 44
-    }
-  },
-  {
-    "name_cn": "巴巴多斯",
-    "name_en": "Barbados",
-    "code": "BB",
-    "coordinate": {
-      "longitude": -59.53,
-      "latitude": 13.16
-    }
-  },
-  {
-    "name_cn": "孟加拉国",
-    "name_en": "Bangladesh",
-    "code": "BD",
-    "coordinate": {
-      "longitude": 90,
-      "latitude": 24
-    }
-  },
-  {
-    "name_cn": "比利时",
-    "name_en": "Belgium",
-    "code": "BE",
-    "coordinate": {
-      "longitude": 4.83,
-      "latitude": 50.83
-    }
-  },
-  {
-    "name_cn": "布基纳法索",
-    "name_en": "Burkina Faso",
-    "code": "BF",
-    "coordinate": {
-      "longitude": -2,
-      "latitude": 13
-    }
-  },
-  {
-    "name_cn": "保加利亚",
-    "name_en": "Bulgaria",
-    "code": "BG",
-    "coordinate": {
-      "longitude": 25,
-      "latitude": 43
-    }
-  },
-  {
-    "name_cn": "巴林",
-    "name_en": "Bahrain",
-    "code": "BH",
-    "coordinate": {
-      "longitude": 50.55,
-      "latitude": 26
-    }
-  },
-  {
-    "name_cn": "布隆迪",
-    "name_en": "Burundi",
-    "code": "BI",
-    "coordinate": {
-      "longitude": 30,
-      "latitude": -3.5
-    }
-  },
-  {
-    "name_cn": "贝宁",
-    "name_en": "Benin",
-    "code": "BJ",
-    "coordinate": {
-      "longitude": 2,
-      "latitude": 9.5
-    }
-  },
-  {
-    "name_cn": "圣巴泰勒米",
-    "name_en": "Saint Barthelemy",
-    "code": "BL",
-    "coordinate": {
-      "longitude": -62.83,
-      "latitude": 17.9
-    }
-  },
-  {
-    "name_cn": "百慕大",
-    "name_en": "Bermuda",
-    "code": "BM",
-    "coordinate": {
-      "longitude": -64.8,
-      "latitude": 32.33
-    }
-  },
-  {
-    "name_cn": "文莱",
-    "name_en": "Brunei",
-    "code": "BN",
-    "coordinate": {
-      "longitude": 114.66,
-      "latitude": 4.5
-    }
-  },
-  {
-    "name_cn": "玻利维亚",
-    "name_en": "Bolivia",
-    "code": "BO",
-    "coordinate": {
-      "longitude": -65,
-      "latitude": -15
-    }
-  },
-  {
-    "name_cn": "荷属加勒比",
-    "name_en": "Caribbean Netherlands",
-    "code": "BQ",
-    "coordinate": {
-      "longitude": -68.23,
-      "latitude": 12.18
-    }
-  },
-  {
-    "name_cn": "巴西",
-    "name_en": "Brazil",
-    "code": "BR",
-    "coordinate": {
-      "longitude": -55,
-      "latitude": -10
-    }
-  },
-  {
-    "name_cn": "巴哈马",
-    "name_en": "Bahamas",
-    "code": "BS",
-    "coordinate": {
-      "longitude": -78,
-      "latitude": 24
-    }
-  },
-  {
-    "name_cn": "不丹",
-    "name_en": "Bhutan",
-    "code": "BT",
-    "coordinate": {
-      "longitude": 90.5,
-      "latitude": 27.5
-    }
-  },
-  {
-    "name_cn": "布韦岛",
-    "name_en": "Bouvet Island",
-    "code": "BV",
-    "coordinate": {
-      "longitude": 3.34,
-      "latitude": -54.42
-    }
-  },
-  {
-    "name_cn": "博茨瓦纳",
-    "name_en": "Botswana",
-    "code": "BW",
-    "coordinate": {
-      "longitude": 24,
-      "latitude": -22
-    }
-  },
-  {
-    "name_cn": "白俄罗斯",
-    "name_en": "Belarus",
-    "code": "BY",
-    "coordinate": {
-      "longitude": 28,
-      "latitude": 54
-    }
-  },
-  {
-    "name_cn": "伯利兹",
-    "name_en": "Belize",
-    "code": "BZ",
-    "coordinate": {
-      "longitude": -88.75,
-      "latitude": 17.25
-    }
-  },
-  {
-    "name_cn": "加拿大",
-    "name_en": "Canada",
-    "code": "CA",
-    "coordinate": {
-      "longitude": -95,
-      "latitude": 60
-    }
-  },
-  {
-    "name_cn": "科科斯群岛",
-    "name_en": "Cocos Islands",
-    "code": "CC",
-    "coordinate": {
-      "longitude": 96.83,
-      "latitude": -12.16
-    }
-  },
-  {
-    "name_cn": "刚果(金)",
-    "name_en": "Dem. Rep. Congo",
-    "code": "CD",
-    "coordinate": {
-      "longitude": 25,
-      "latitude": 0
-    }
-  },
-  {
-    "name_cn": "中非",
-    "name_en": "Central African Rep.",
-    "code": "CF",
-    "coordinate": {
-      "longitude": 21,
-      "latitude": 7
-    }
-  },
-  {
-    "name_cn": "刚果(布)",
-    "name_en": "Congo",
-    "code": "CG",
-    "coordinate": {
-      "longitude": 15,
-      "latitude": -1
-    }
-  },
-  {
-    "name_cn": "瑞士",
-    "name_en": "Switzerland",
-    "code": "CH",
-    "coordinate": {
-      "longitude": 8,
-      "latitude": 47
-    }
-  },
-  {
-    "name_cn": "科特迪瓦",
-    "name_en": "Côte d'Ivoire",
-    "code": "CI",
-    "coordinate": {
-      "longitude": -5,
-      "latitude": 8
-    }
-  },
-  {
-    "name_cn": "库克群岛",
-    "name_en": "Cook Islands",
-    "code": "CK",
-    "coordinate": {
-      "longitude": -159.76,
-      "latitude": -21.23
-    }
-  },
-  {
-    "name_cn": "智利",
-    "name_en": "Chile",
-    "code": "CL",
-    "coordinate": {
-      "longitude": -71,
-      "latitude": -30
-    }
-  },
-  {
-    "name_cn": "喀麦隆",
-    "name_en": "Cameroon",
-    "code": "CM",
-    "coordinate": {
-      "longitude": 12,
-      "latitude": 6
-    }
-  },
-  {
-    "name_cn": "哥伦比亚",
-    "name_en": "Colombia",
-    "code": "CO",
-    "coordinate": {
-      "longitude": -72,
-      "latitude": 4
-    }
-  },
-  {
-    "name_cn": "克利珀顿岛",
-    "name_en": "Clipperton Island",
-    "code": "CP",
-    "coordinate": {
-      "longitude": -109.21,
-      "latitude": 10.28
-    }
-  },
-  {
-    "name_cn": "CQ",
-    "name_en": "CQ",
-    "code": "CQ",
-    "coordinate": {
-      "longitude": 0,
-      "latitude": 0
-    }
-  },
-  {
-    "name_cn": "哥斯达黎加",
-    "name_en": "Costa Rica",
-    "code": "CR",
-    "coordinate": {
-      "longitude": -84,
-      "latitude": 10
-    }
-  },
-  {
-    "name_cn": "古巴",
-    "name_en": "Cuba",
-    "code": "CU",
-    "coordinate": {
-      "longitude": -80,
-      "latitude": 21.5
-    }
-  },
-  {
-    "name_cn": "佛得角",
-    "name_en": "Cape Verde",
-    "code": "CV",
-    "coordinate": {
-      "longitude": -24,
-      "latitude": 16
-    }
-  },
-  {
-    "name_cn": "库拉索",
-    "name_en": "Curacao",
-    "code": "CW",
-    "coordinate": {
-      "longitude": -69,
-      "latitude": 12.11
-    }
-  },
-  {
-    "name_cn": "圣诞岛",
-    "name_en": "Christmas Island",
-    "code": "CX",
-    "coordinate": {
-      "longitude": 105.66,
-      "latitude": -10.5
-    }
-  },
-  {
-    "name_cn": "塞浦路斯",
-    "name_en": "Cyprus",
-    "code": "CY",
-    "coordinate": {
-      "longitude": 33,
-      "latitude": 35
-    }
-  },
-  {
-    "name_cn": "捷克",
-    "name_en": "Czech Rep.",
-    "code": "CZ",
-    "coordinate": {
-      "longitude": 15,
-      "latitude": 49.75
-    }
-  },
-  {
-    "name_cn": "德国",
-    "name_en": "Germany",
-    "code": "DE",
-    "coordinate": {
-      "longitude": 9,
-      "latitude": 51
-    }
-  },
-  {
-    "name_cn": "迪戈加西亚",
-    "name_en": "Diego Garcia",
-    "code": "DG",
-    "coordinate": {
-      "longitude": 72.4,
-      "latitude": -7.3
-    }
-  },
-  {
-    "name_cn": "吉布提",
-    "name_en": "Djibouti",
-    "code": "DJ",
-    "coordinate": {
-      "longitude": 43,
-      "latitude": 11.5
-    }
-  },
-  {
-    "name_cn": "丹麦",
-    "name_en": "Denmark",
-    "code": "DK",
-    "coordinate": {
-      "longitude": 10,
-      "latitude": 56
-    }
-  },
-  {
-    "name_cn": "多米尼克",
-    "name_en": "Dominica",
-    "code": "DM",
-    "coordinate": {
-      "longitude": -61.33,
-      "latitude": 15.41
-    }
-  },
-  {
-    "name_cn": "多米尼加",
-    "name_en": "Dominican Rep.",
-    "code": "DO",
-    "coordinate": {
-      "longitude": -70.66,
-      "latitude": 19
-    }
-  },
-  {
-    "name_cn": "阿尔及利亚",
-    "name_en": "Algeria",
-    "code": "DZ",
-    "coordinate": {
-      "longitude": 3,
-      "latitude": 28
-    }
-  },
-  {
-    "name_cn": "休达及梅利利亚",
-    "name_en": "Ceuta and Melilla",
-    "code": "EA",
-    "coordinate": {
-      "longitude": -5.3,
-      "latitude": 35.88
-    }
-  },
-  {
-    "name_cn": "厄瓜多尔",
-    "name_en": "Ecuador",
-    "code": "EC",
-    "coordinate": {
-      "longitude": -77.5,
-      "latitude": -2
-    }
-  },
-  {
-    "name_cn": "爱沙尼亚",
-    "name_en": "Estonia",
-    "code": "EE",
-    "coordinate": {
-      "longitude": 26,
-      "latitude": 59
-    }
-  },
-  {
-    "name_cn": "埃及",
-    "name_en": "Egypt",
-    "code": "EG",
-    "coordinate": {
-      "longitude": 30,
-      "latitude": 27
-    }
-  },
-  {
-    "name_cn": "西撒哈拉",
-    "name_en": "W. Sahara",
-    "code": "EH",
-    "coordinate": {
-      "longitude": -12,
-      "latitude": 24.5
-    }
-  },
-  {
-    "name_cn": "厄立特里亚",
-    "name_en": "Eritrea",
-    "code": "ER",
-    "coordinate": {
-      "longitude": 39,
-      "latitude": 15
-    }
-  },
-  {
-    "name_cn": "西班牙",
-    "name_en": "Spain",
-    "code": "ES",
-    "coordinate": {
-      "longitude": -4,
-      "latitude": 40
-    }
-  },
-  {
-    "name_cn": "埃塞俄比亚",
-    "name_en": "Ethiopia",
-    "code": "ET",
-    "coordinate": {
-      "longitude": 38,
-      "latitude": 8
-    }
-  },
-  {
-    "name_cn": "欧盟",
-    "name_en": "European Union",
-    "code": "EU",
-    "coordinate": {
-      "longitude": 10,
-      "latitude": 50
-    }
-  },
-  {
-    "name_cn": "芬兰",
-    "name_en": "Finland",
-    "code": "FI",
-    "coordinate": {
-      "longitude": 26,
-      "latitude": 64
-    }
-  },
-  {
-    "name_cn": "斐济",
-    "name_en": "Fiji",
-    "code": "FJ",
-    "coordinate": {
-      "longitude": 175,
-      "latitude": -18
-    }
-  },
-  {
-    "name_cn": "福克兰群岛",
-    "name_en": "Falkland Islands",
-    "code": "FK",
-    "coordinate": {
-      "longitude": -59,
-      "latitude": -51.75
-    }
-  },
-  {
-    "name_cn": "密克罗尼西亚",
-    "name_en": "Micronesia",
-    "code": "FM",
-    "coordinate": {
-      "longitude": 158.25,
-      "latitude": 6.91
-    }
-  },
-  {
-    "name_cn": "法罗群岛",
-    "name_en": "Faroe Islands",
-    "code": "FO",
-    "coordinate": {
-      "longitude": -7,
-      "latitude": 62
-    }
-  },
-  {
-    "name_cn": "法国",
-    "name_en": "France",
-    "code": "FR",
-    "coordinate": {
-      "longitude": 2,
-      "latitude": 46
-    }
-  },
-  {
-    "name_cn": "加蓬",
-    "name_en": "Gabon",
-    "code": "GA",
-    "coordinate": {
-      "longitude": 11.5,
-      "latitude": -1
-    }
-  },
-  {
-    "name_cn": "英国",
-    "name_en": "United Kingdom",
-    "code": "GB",
-    "coordinate": {
-      "longitude": -2,
-      "latitude": 54
-    }
-  },
-  {
-    "name_cn": "格林纳达",
-    "name_en": "Grenada",
-    "code": "GD",
-    "coordinate": {
-      "longitude": -61.66,
-      "latitude": 12.11
-    }
-  },
-  {
-    "name_cn": "格鲁吉亚",
-    "name_en": "Georgia",
-    "code": "GE",
-    "coordinate": {
-      "longitude": 43.5,
-      "latitude": 42
-    }
-  },
-  {
-    "name_cn": "法属圭亚那",
-    "name_en": "French Guiana",
-    "code": "GF",
-    "coordinate": {
-      "longitude": -53,
-      "latitude": 4
-    }
-  },
-  {
-    "name_cn": "根西岛",
-    "name_en": "Guernsey",
-    "code": "GG",
-    "coordinate": {
-      "longitude": -2.58,
-      "latitude": 49.46
-    }
-  },
-  {
-    "name_cn": "加纳",
-    "name_en": "Ghana",
-    "code": "GH",
-    "coordinate": {
-      "longitude": -2,
-      "latitude": 8
-    }
-  },
-  {
-    "name_cn": "直布罗陀",
-    "name_en": "Gibraltar",
-    "code": "GI",
-    "coordinate": {
-      "longitude": -5.35,
-      "latitude": 36.13
-    }
-  },
-  {
-    "name_cn": "格陵兰",
-    "name_en": "Greenland",
-    "code": "GL",
-    "coordinate": {
-      "longitude": -40,
-      "latitude": 72
-    }
-  },
-  {
-    "name_cn": "冈比亚",
-    "name_en": "Gambia",
-    "code": "GM",
-    "coordinate": {
-      "longitude": -16.56,
-      "latitude": 13.46
-    }
-  },
-  {
-    "name_cn": "几内亚",
-    "name_en": "Guinea",
-    "code": "GN",
-    "coordinate": {
-      "longitude": -10,
-      "latitude": 11
-    }
-  },
-  {
-    "name_cn": "瓜德罗普",
-    "name_en": "Guadeloupe",
-    "code": "GP",
-    "coordinate": {
-      "longitude": -61.58,
-      "latitude": 16.25
-    }
-  },
-  {
-    "name_cn": "赤道几内亚",
-    "name_en": "Eq. Guinea",
-    "code": "GQ",
-    "coordinate": {
-      "longitude": 10,
-      "latitude": 2
-    }
-  },
-  {
-    "name_cn": "希腊",
-    "name_en": "Greece",
-    "code": "GR",
-    "coordinate": {
-      "longitude": 22,
-      "latitude": 39
-    }
-  },
-  {
-    "name_cn": "南乔治亚",
-    "name_en": "South Georgia",
-    "code": "GS",
-    "coordinate": {
-      "longitude": -36.5,
-      "latitude": -54.43
-    }
-  },
-  {
-    "name_cn": "危地马拉",
-    "name_en": "Guatemala",
-    "code": "GT",
-    "coordinate": {
-      "longitude": -90.25,
-      "latitude": 15.5
-    }
-  },
-  {
-    "name_cn": "关岛",
-    "name_en": "Guam",
-    "code": "GU",
-    "coordinate": {
-      "longitude": 144.78,
-      "latitude": 13.46
-    }
-  },
-  {
-    "name_cn": "几内亚比绍",
-    "name_en": "Guinea-Bissau",
-    "code": "GW",
-    "coordinate": {
-      "longitude": -15,
-      "latitude": 12
-    }
-  },
-  {
-    "name_cn": "圭亚那",
-    "name_en": "Guyana",
-    "code": "GY",
-    "coordinate": {
-      "longitude": -59,
-      "latitude": 5
-    }
-  },
-  {
-    "name_cn": "赫德岛",
-    "name_en": "Heard Island",
-    "code": "HM",
-    "coordinate": {
-      "longitude": 73.5,
-      "latitude": -53.1
-    }
-  },
-  {
-    "name_cn": "洪都拉斯",
-    "name_en": "Honduras",
-    "code": "HN",
-    "coordinate": {
-      "longitude": -86.5,
-      "latitude": 15
-    }
-  },
-  {
-    "name_cn": "克罗地亚",
-    "name_en": "Croatia",
-    "code": "HR",
-    "coordinate": {
-      "longitude": 15.5,
-      "latitude": 45.16
-    }
-  },
-  {
-    "name_cn": "海地",
-    "name_en": "Haiti",
-    "code": "HT",
-    "coordinate": {
-      "longitude": -72.41,
-      "latitude": 19
-    }
-  },
-  {
-    "name_cn": "匈牙利",
-    "name_en": "Hungary",
-    "code": "HU",
-    "coordinate": {
-      "longitude": 20,
-      "latitude": 47
-    }
-  },
-  {
-    "name_cn": "加那利群岛",
-    "name_en": "Canary Islands",
-    "code": "IC",
-    "coordinate": {
-      "longitude": -15.5,
-      "latitude": 28
-    }
-  },
-  {
-    "name_cn": "印尼",
-    "name_en": "Indonesia",
-    "code": "ID",
-    "coordinate": {
-      "longitude": 120,
-      "latitude": -5
-    }
-  },
-  {
-    "name_cn": "爱尔兰",
-    "name_en": "Ireland",
-    "code": "IE",
-    "coordinate": {
-      "longitude": -8,
-      "latitude": 53
-    }
-  },
-  {
-    "name_cn": "以色列",
-    "name_en": "Israel",
-    "code": "IL",
-    "coordinate": {
-      "longitude": 34.75,
-      "latitude": 31.5
-    }
-  },
-  {
-    "name_cn": "马恩岛",
-    "name_en": "Isle of Man",
-    "code": "IM",
-    "coordinate": {
-      "longitude": -4.5,
-      "latitude": 54.23
-    }
-  },
-  {
-    "name_cn": "印度",
-    "name_en": "India",
-    "code": "IN",
-    "coordinate": {
-      "longitude": 77,
-      "latitude": 20
-    }
-  },
-  {
-    "name_cn": "英属印度洋领地",
-    "name_en": "British Indian Ocean Territory",
-    "code": "IO",
-    "coordinate": {
-      "longitude": 71.5,
-      "latitude": -6
-    }
-  },
-  {
-    "name_cn": "伊拉克",
-    "name_en": "Iraq",
-    "code": "IQ",
-    "coordinate": {
-      "longitude": 44,
-      "latitude": 33
-    }
-  },
-  {
-    "name_cn": "伊朗",
-    "name_en": "Iran",
-    "code": "IR",
-    "coordinate": {
-      "longitude": 53,
-      "latitude": 32
-    }
-  },
-  {
-    "name_cn": "冰岛",
-    "name_en": "Iceland",
-    "code": "IS",
-    "coordinate": {
-      "longitude": -18,
-      "latitude": 65
-    }
-  },
-  {
-    "name_cn": "意大利",
-    "name_en": "Italy",
-    "code": "IT",
-    "coordinate": {
-      "longitude": 12.83,
-      "latitude": 42.83
-    }
-  },
-  {
-    "name_cn": "泽西岛",
-    "name_en": "Jersey",
-    "code": "JE",
-    "coordinate": {
-      "longitude": -2.11,
-      "latitude": 49.21
-    }
-  },
-  {
-    "name_cn": "牙买加",
-    "name_en": "Jamaica",
-    "code": "JM",
-    "coordinate": {
-      "longitude": -77.5,
-      "latitude": 18.25
-    }
-  },
-  {
-    "name_cn": "约旦",
-    "name_en": "Jordan",
-    "code": "JO",
-    "coordinate": {
-      "longitude": 36,
-      "latitude": 31
-    }
-  },
-  {
-    "name_cn": "日本",
-    "name_en": "Japan",
-    "code": "JP",
-    "coordinate": {
-      "longitude": 138,
-      "latitude": 36
-    }
-  },
-  {
-    "name_cn": "肯尼亚",
-    "name_en": "Kenya",
-    "code": "KE",
-    "coordinate": {
-      "longitude": 38,
-      "latitude": 1
-    }
-  },
-  {
-    "name_cn": "吉尔吉斯斯坦",
-    "name_en": "Kyrgyzstan",
-    "code": "KG",
-    "coordinate": {
-      "longitude": 75,
-      "latitude": 41
-    }
-  },
-  {
-    "name_cn": "柬埔寨",
-    "name_en": "Cambodia",
-    "code": "KH",
-    "coordinate": {
-      "longitude": 105,
-      "latitude": 13
-    }
-  },
-  {
-    "name_cn": "基里巴斯",
-    "name_en": "Kiribati",
-    "code": "KI",
-    "coordinate": {
-      "longitude": 173,
-      "latitude": 1.41
-    }
-  },
-  {
-    "name_cn": "科摩罗",
-    "name_en": "Comoros",
-    "code": "KM",
-    "coordinate": {
-      "longitude": 44.25,
-      "latitude": -12.16
-    }
-  },
-  {
-    "name_cn": "圣基茨和尼维斯",
-    "name_en": "Saint Kitts and Nevis",
-    "code": "KN",
-    "coordinate": {
-      "longitude": -62.75,
-      "latitude": 17.33
-    }
-  },
-  {
-    "name_cn": "朝鲜",
-    "name_en": "Dem. Rep. Korea",
-    "code": "KP",
-    "coordinate": {
-      "longitude": 127,
-      "latitude": 40
-    }
-  },
-  {
-    "name_cn": "韩国",
-    "name_en": "Korea",
-    "code": "KR",
-    "coordinate": {
-      "longitude": 127.5,
-      "latitude": 37
-    }
-  },
-  {
-    "name_cn": "科威特",
-    "name_en": "Kuwait",
-    "code": "KW",
-    "coordinate": {
-      "longitude": 45.75,
-      "latitude": 29.5
-    }
-  },
-  {
-    "name_cn": "开曼群岛",
-    "name_en": "Cayman Islands",
-    "code": "KY",
-    "coordinate": {
-      "longitude": -80.5,
-      "latitude": 19.5
-    }
-  },
-  {
-    "name_cn": "哈萨克斯坦",
-    "name_en": "Kazakhstan",
-    "code": "KZ",
-    "coordinate": {
-      "longitude": 68,
-      "latitude": 48
-    }
-  },
-  {
-    "name_cn": "老挝",
-    "name_en": "Lao PDR",
-    "code": "LA",
-    "coordinate": {
-      "longitude": 105,
-      "latitude": 18
-    }
-  },
-  {
-    "name_cn": "黎巴嫩",
-    "name_en": "Lebanon",
-    "code": "LB",
-    "coordinate": {
-      "longitude": 35.83,
-      "latitude": 33.83
-    }
-  },
-  {
-    "name_cn": "圣卢西亚",
-    "name_en": "Saint Lucia",
-    "code": "LC",
-    "coordinate": {
-      "longitude": -60.96,
-      "latitude": 13.88
-    }
-  },
-  {
-    "name_cn": "列支敦士登",
-    "name_en": "Liechtenstein",
-    "code": "LI",
-    "coordinate": {
-      "longitude": 9.53,
-      "latitude": 47.16
-    }
-  },
-  {
-    "name_cn": "斯里兰卡",
-    "name_en": "Sri Lanka",
-    "code": "LK",
-    "coordinate": {
-      "longitude": 81,
-      "latitude": 7
-    }
-  },
-  {
-    "name_cn": "利比里亚",
-    "name_en": "Liberia",
-    "code": "LR",
-    "coordinate": {
-      "longitude": -9,
-      "latitude": 9.5
-    }
-  },
-  {
-    "name_cn": "莱索托",
-    "name_en": "Lesotho",
-    "code": "LS",
-    "coordinate": {
-      "longitude": 28.5,
-      "latitude": -29.5
-    }
-  },
-  {
-    "name_cn": "立陶宛",
-    "name_en": "Lithuania",
-    "code": "LT",
-    "coordinate": {
-      "longitude": 24,
-      "latitude": 56
-    }
-  },
-  {
-    "name_cn": "卢森堡",
-    "name_en": "Luxembourg",
-    "code": "LU",
-    "coordinate": {
-      "longitude": 6.16,
-      "latitude": 49.75
-    }
-  },
-  {
-    "name_cn": "拉脱维亚",
-    "name_en": "Latvia",
-    "code": "LV",
-    "coordinate": {
-      "longitude": 25,
-      "latitude": 57
-    }
-  },
-  {
-    "name_cn": "利比亚",
-    "name_en": "Libya",
-    "code": "LY",
-    "coordinate": {
-      "longitude": 17,
-      "latitude": 25
-    }
-  },
-  {
-    "name_cn": "摩洛哥",
-    "name_en": "Morocco",
-    "code": "MA",
-    "coordinate": {
-      "longitude": -5,
-      "latitude": 32
-    }
-  },
-  {
-    "name_cn": "摩纳哥",
-    "name_en": "Monaco",
-    "code": "MC",
-    "coordinate": {
-      "longitude": 7.4,
-      "latitude": 43.73
-    }
-  },
-  {
-    "name_cn": "摩尔多瓦",
-    "name_en": "Moldova",
-    "code": "MD",
-    "coordinate": {
-      "longitude": 29,
-      "latitude": 47
-    }
-  },
-  {
-    "name_cn": "黑山",
-    "name_en": "Montenegro",
-    "code": "ME",
-    "coordinate": {
-      "longitude": 19,
-      "latitude": 42.5
-    }
-  },
-  {
-    "name_cn": "法属圣马丁",
-    "name_en": "Saint Martin (French)",
-    "code": "MF",
-    "coordinate": {
-      "longitude": -63.05,
-      "latitude": 18.08
-    }
-  },
-  {
-    "name_cn": "马达加斯加",
-    "name_en": "Madagascar",
-    "code": "MG",
-    "coordinate": {
-      "longitude": 47,
-      "latitude": -20
-    }
-  },
-  {
-    "name_cn": "马绍尔群岛",
-    "name_en": "Marshall Islands",
-    "code": "MH",
-    "coordinate": {
-      "longitude": 171,
-      "latitude": 9
-    }
-  },
-  {
-    "name_cn": "北马其顿",
-    "name_en": "Macedonia",
-    "code": "MK",
-    "coordinate": {
-      "longitude": 22,
-      "latitude": 41.83
-    }
-  },
-  {
-    "name_cn": "马里",
-    "name_en": "Mali",
-    "code": "ML",
-    "coordinate": {
-      "longitude": -4,
-      "latitude": 17
-    }
-  },
-  {
-    "name_cn": "缅甸",
-    "name_en": "Myanmar",
-    "code": "MM",
-    "coordinate": {
-      "longitude": 98,
-      "latitude": 21
-    }
-  },
-  {
-    "name_cn": "蒙古国",
-    "name_en": "Mongolia",
-    "code": "MN",
-    "coordinate": {
-      "longitude": 105,
-      "latitude": 46
-    }
-  },
-  {
-    "name_cn": "北马里亚纳",
-    "name_en": "Northern Mariana Islands",
-    "code": "MP",
-    "coordinate": {
-      "longitude": 145.75,
-      "latitude": 15.2
-    }
-  },
-  {
-    "name_cn": "马提尼克",
-    "name_en": "Martinique",
-    "code": "MQ",
-    "coordinate": {
-      "longitude": -61,
-      "latitude": 14.66
-    }
-  },
-  {
-    "name_cn": "毛里塔尼亚",
-    "name_en": "Mauritania",
-    "code": "MR",
-    "coordinate": {
-      "longitude": -12,
-      "latitude": 20
-    }
-  },
-  {
-    "name_cn": "蒙特塞拉特",
-    "name_en": "Montserrat",
-    "code": "MS",
-    "coordinate": {
-      "longitude": -62.2,
-      "latitude": 16.75
-    }
-  },
-  {
-    "name_cn": "马耳他",
-    "name_en": "Malta",
-    "code": "MT",
-    "coordinate": {
-      "longitude": 14.33,
-      "latitude": 35.83
-    }
-  },
-  {
-    "name_cn": "毛里求斯",
-    "name_en": "Mauritius",
-    "code": "MU",
-    "coordinate": {
-      "longitude": 57.55,
-      "latitude": -20.28
-    }
-  },
-  {
-    "name_cn": "马尔代夫",
-    "name_en": "Maldives",
-    "code": "MV",
-    "coordinate": {
-      "longitude": 73,
-      "latitude": 3.25
-    }
-  },
-  {
-    "name_cn": "马拉维",
-    "name_en": "Malawi",
-    "code": "MW",
-    "coordinate": {
-      "longitude": 34,
-      "latitude": -13.5
-    }
-  },
-  {
-    "name_cn": "墨西哥",
-    "name_en": "Mexico",
-    "code": "MX",
-    "coordinate": {
-      "longitude": -102,
-      "latitude": 23
-    }
-  },
-  {
-    "name_cn": "马来西亚",
-    "name_en": "Malaysia",
-    "code": "MY",
-    "coordinate": {
-      "longitude": 112.5,
-      "latitude": 2.5
-    }
-  },
-  {
-    "name_cn": "莫桑比克",
-    "name_en": "Mozambique",
-    "code": "MZ",
-    "coordinate": {
-      "longitude": 35,
-      "latitude": -18.25
-    }
-  },
-  {
-    "name_cn": "纳米比亚",
-    "name_en": "Namibia",
-    "code": "NA",
-    "coordinate": {
-      "longitude": 17,
-      "latitude": -22
-    }
-  },
-  {
-    "name_cn": "新喀里多尼亚",
-    "name_en": "New Caledonia",
-    "code": "NC",
-    "coordinate": {
-      "longitude": 165.5,
-      "latitude": -21.5
-    }
-  },
-  {
-    "name_cn": "尼日尔",
-    "name_en": "Niger",
-    "code": "NE",
-    "coordinate": {
-      "longitude": 8,
-      "latitude": 16
-    }
-  },
-  {
-    "name_cn": "诺福克岛",
-    "name_en": "Norfolk Island",
-    "code": "NF",
-    "coordinate": {
-      "longitude": 167.95,
-      "latitude": -29.03
-    }
-  },
-  {
-    "name_cn": "尼日利亚",
-    "name_en": "Nigeria",
-    "code": "NG",
-    "coordinate": {
-      "longitude": 8,
-      "latitude": 10
-    }
-  },
-  {
-    "name_cn": "尼加拉瓜",
-    "name_en": "Nicaragua",
-    "code": "NI",
-    "coordinate": {
-      "longitude": -85,
-      "latitude": 13
-    }
-  },
-  {
-    "name_cn": "荷兰",
-    "name_en": "Netherlands",
-    "code": "NL",
-    "coordinate": {
-      "longitude": 5.75,
-      "latitude": 52.5
-    }
-  },
-  {
-    "name_cn": "挪威",
-    "name_en": "Norway",
-    "code": "NO",
-    "coordinate": {
-      "longitude": 10,
-      "latitude": 62
-    }
-  },
-  {
-    "name_cn": "尼泊尔",
-    "name_en": "Nepal",
-    "code": "NP",
-    "coordinate": {
-      "longitude": 84,
-      "latitude": 28
-    }
-  },
-  {
-    "name_cn": "瑙鲁",
-    "name_en": "Nauru",
-    "code": "NR",
-    "coordinate": {
-      "longitude": 166.91,
-      "latitude": -0.53
-    }
-  },
-  {
-    "name_cn": "纽埃",
-    "name_en": "Niue",
-    "code": "NU",
-    "coordinate": {
-      "longitude": -169.86,
-      "latitude": -19.03
-    }
-  },
-  {
-    "name_cn": "新西兰",
-    "name_en": "New Zealand",
-    "code": "NZ",
-    "coordinate": {
-      "longitude": 174,
-      "latitude": -41
-    }
-  },
-  {
-    "name_cn": "阿曼",
-    "name_en": "Oman",
-    "code": "OM",
-    "coordinate": {
-      "longitude": 54,
-      "latitude": 21
-    }
-  },
-  {
-    "name_cn": "巴拿马",
-    "name_en": "Panama",
-    "code": "PA",
-    "coordinate": {
-      "longitude": -80,
-      "latitude": 9
-    }
-  },
-  {
-    "name_cn": "秘鲁",
-    "name_en": "Peru",
-    "code": "PE",
-    "coordinate": {
-      "longitude": -76,
-      "latitude": -10
-    }
-  },
-  {
-    "name_cn": "法属波利尼西亚",
-    "name_en": "French Polynesia",
-    "code": "PF",
-    "coordinate": {
-      "longitude": -140,
-      "latitude": -15
-    }
-  },
-  {
-    "name_cn": "巴布亚新几内亚",
-    "name_en": "Papua New Guinea",
-    "code": "PG",
-    "coordinate": {
-      "longitude": 147,
-      "latitude": -6
-    }
-  },
-  {
-    "name_cn": "菲律宾",
-    "name_en": "Philippines",
-    "code": "PH",
-    "coordinate": {
-      "longitude": 122,
-      "latitude": 13
-    }
-  },
-  {
-    "name_cn": "巴基斯坦",
-    "name_en": "Pakistan",
-    "code": "PK",
-    "coordinate": {
-      "longitude": 70,
-      "latitude": 30
-    }
-  },
-  {
-    "name_cn": "波兰",
-    "name_en": "Poland",
-    "code": "PL",
-    "coordinate": {
-      "longitude": 20,
-      "latitude": 52
-    }
-  },
-  {
-    "name_cn": "圣皮埃尔和密克隆",
-    "name_en": "Saint Pierre and Miquelon",
-    "code": "PM",
-    "coordinate": {
-      "longitude": -56.33,
-      "latitude": 46.83
-    }
-  },
-  {
-    "name_cn": "皮特凯恩",
-    "name_en": "Pitcairn Islands",
-    "code": "PN",
-    "coordinate": {
-      "longitude": -130.1,
-      "latitude": -25.06
-    }
-  },
-  {
-    "name_cn": "波多黎各",
-    "name_en": "Puerto Rico",
-    "code": "PR",
-    "coordinate": {
-      "longitude": -66.5,
-      "latitude": 18.25
-    }
-  },
-  {
-    "name_cn": "巴勒斯坦",
-    "name_en": "Palestine",
-    "code": "PS",
-    "coordinate": {
-      "longitude": 35.2,
-      "latitude": 31.9
-    }
-  },
-  {
-    "name_cn": "葡萄牙",
-    "name_en": "Portugal",
-    "code": "PT",
-    "coordinate": {
-      "longitude": -8,
-      "latitude": 39.5
-    }
-  },
-  {
-    "name_cn": "帕劳",
-    "name_en": "Palau",
-    "code": "PW",
-    "coordinate": {
-      "longitude": 134.5,
-      "latitude": 7.5
-    }
-  },
-  {
-    "name_cn": "巴拉圭",
-    "name_en": "Paraguay",
-    "code": "PY",
-    "coordinate": {
-      "longitude": -58,
-      "latitude": -23
-    }
-  },
-  {
-    "name_cn": "卡塔尔",
-    "name_en": "Qatar",
-    "code": "QA",
-    "coordinate": {
-      "longitude": 51.25,
-      "latitude": 25.5
-    }
-  },
-  {
-    "name_cn": "留尼汪",
-    "name_en": "Reunion",
-    "code": "RE",
-    "coordinate": {
-      "longitude": 55.6,
-      "latitude": -20.88
-    }
-  },
-  {
-    "name_cn": "罗马尼亚",
-    "name_en": "Romania",
-    "code": "RO",
-    "coordinate": {
-      "longitude": 25,
-      "latitude": 46
-    }
-  },
-  {
-    "name_cn": "塞尔维亚",
-    "name_en": "Serbia",
-    "code": "RS",
-    "coordinate": {
-      "longitude": 21,
-      "latitude": 44
-    }
-  },
-  {
-    "name_cn": "俄罗斯",
-    "name_en": "Russia",
-    "code": "RU",
-    "coordinate": {
-      "longitude": 100,
-      "latitude": 60
-    }
-  },
-  {
-    "name_cn": "卢旺达",
-    "name_en": "Rwanda",
-    "code": "RW",
-    "coordinate": {
-      "longitude": 30,
-      "latitude": -2
-    }
-  },
-  {
-    "name_cn": "沙特",
-    "name_en": "Saudi Arabia",
-    "code": "SA",
-    "coordinate": {
-      "longitude": 45,
-      "latitude": 25
-    }
-  },
-  {
-    "name_cn": "所罗门群岛",
-    "name_en": "Solomon Is.",
-    "code": "SB",
-    "coordinate": {
-      "longitude": 159,
-      "latitude": -8
-    }
-  },
-  {
-    "name_cn": "塞舌尔",
-    "name_en": "Seychelles",
-    "code": "SC",
-    "coordinate": {
-      "longitude": 55.66,
-      "latitude": -4.58
-    }
-  },
-  {
-    "name_cn": "苏丹",
-    "name_en": "Sudan",
-    "code": "SD",
-    "coordinate": {
-      "longitude": 30,
-      "latitude": 15
-    }
-  },
-  {
-    "name_cn": "瑞典",
-    "name_en": "Sweden",
-    "code": "SE",
-    "coordinate": {
-      "longitude": 15,
-      "latitude": 62
-    }
-  },
-  {
-    "name_cn": "新加坡",
-    "name_en": "Singapore",
-    "code": "SG",
-    "coordinate": {
-      "longitude": 103.8,
-      "latitude": 1.36
-    }
-  },
-  {
-    "name_cn": "圣赫勒拿",
-    "name_en": "Saint Helena",
-    "code": "SH",
-    "coordinate": {
-      "longitude": -5.71,
-      "latitude": -15.95
-    }
-  },
-  {
-    "name_cn": "斯洛文尼亚",
-    "name_en": "Slovenia",
-    "code": "SI",
-    "coordinate": {
-      "longitude": 15,
-      "latitude": 46
-    }
-  },
-  {
-    "name_cn": "斯瓦尔巴",
-    "name_en": "Svalbard",
-    "code": "SJ",
-    "coordinate": {
-      "longitude": 20,
-      "latitude": 78
-    }
-  },
-  {
-    "name_cn": "斯洛伐克",
-    "name_en": "Slovakia",
-    "code": "SK",
-    "coordinate": {
-      "longitude": 19.5,
-      "latitude": 48.66
-    }
-  },
-  {
-    "name_cn": "塞拉利昂",
-    "name_en": "Sierra Leone",
-    "code": "SL",
-    "coordinate": {
-      "longitude": -11.5,
-      "latitude": 8.5
-    }
-  },
-  {
-    "name_cn": "圣马力诺",
-    "name_en": "San Marino",
-    "code": "SM",
-    "coordinate": {
-      "longitude": 12.41,
-      "latitude": 43.76
-    }
-  },
-  {
-    "name_cn": "塞内加尔",
-    "name_en": "Senegal",
-    "code": "SN",
-    "coordinate": {
-      "longitude": -14,
-      "latitude": 14
-    }
-  },
-  {
-    "name_cn": "索马里",
-    "name_en": "Somalia",
-    "code": "SO",
-    "coordinate": {
-      "longitude": 49,
-      "latitude": 10
-    }
-  },
-  {
-    "name_cn": "苏里南",
-    "name_en": "Suriname",
-    "code": "SR",
-    "coordinate": {
-      "longitude": -56,
-      "latitude": 4
-    }
-  },
-  {
-    "name_cn": "南苏丹",
-    "name_en": "S. Sudan",
-    "code": "SS",
-    "coordinate": {
-      "longitude": 30,
-      "latitude": 7
-    }
-  },
-  {
-    "name_cn": "圣多美和普林西比",
-    "name_en": "Sao Tome and Principe",
-    "code": "ST",
-    "coordinate": {
-      "longitude": 6.25,
-      "latitude": 1
-    }
-  },
-  {
-    "name_cn": "萨尔瓦多",
-    "name_en": "El Salvador",
-    "code": "SV",
-    "coordinate": {
-      "longitude": -88.91,
-      "latitude": 13.83
-    }
-  },
-  {
-    "name_cn": "荷属圣马丁",
-    "name_en": "Sint Maarten",
-    "code": "SX",
-    "coordinate": {
-      "longitude": -63.05,
-      "latitude": 18.03
-    }
-  },
-  {
-    "name_cn": "叙利亚",
-    "name_en": "Syria",
-    "code": "SY",
-    "coordinate": {
-      "longitude": 38,
-      "latitude": 35
-    }
-  },
-  {
-    "name_cn": "斯威士兰",
-    "name_en": "Swaziland",
-    "code": "SZ",
-    "coordinate": {
-      "longitude": 31.5,
-      "latitude": -26.5
-    }
-  },
-  {
-    "name_cn": "特里斯坦",
-    "name_en": "Tristan da Cunha",
-    "code": "TA",
-    "coordinate": {
-      "longitude": -12.28,
-      "latitude": -37.1
-    }
-  },
-  {
-    "name_cn": "特克斯和凯科斯",
-    "name_en": "Turks and Caicos Islands",
-    "code": "TC",
-    "coordinate": {
-      "longitude": -71.58,
-      "latitude": 21.75
-    }
-  },
-  {
-    "name_cn": "乍得",
-    "name_en": "Chad",
-    "code": "TD",
-    "coordinate": {
-      "longitude": 15,
-      "latitude": 15
-    }
-  },
-  {
-    "name_cn": "法属南部领地",
-    "name_en": "French Southern Territories",
-    "code": "TF",
-    "coordinate": {
-      "longitude": 69.25,
-      "latitude": -49.25
-    }
-  },
-  {
-    "name_cn": "多哥",
-    "name_en": "Togo",
-    "code": "TG",
-    "coordinate": {
-      "longitude": 1.16,
-      "latitude": 8
-    }
-  },
-  {
-    "name_cn": "泰国",
-    "name_en": "Thailand",
-    "code": "TH",
-    "coordinate": {
-      "longitude": 100,
-      "latitude": 15
-    }
-  },
-  {
-    "name_cn": "塔吉克斯坦",
-    "name_en": "Tajikistan",
-    "code": "TJ",
-    "coordinate": {
-      "longitude": 71,
-      "latitude": 39
-    }
-  },
-  {
-    "name_cn": "托克劳",
-    "name_en": "Tokelau",
-    "code": "TK",
-    "coordinate": {
-      "longitude": -172,
-      "latitude": -9
-    }
-  },
-  {
-    "name_cn": "东帝汶",
-    "name_en": "East Timor",
-    "code": "TL",
-    "coordinate": {
-      "longitude": 125.91,
-      "latitude": -8.83
-    }
-  },
-  {
-    "name_cn": "土库曼斯坦",
-    "name_en": "Turkmenistan",
-    "code": "TM",
-    "coordinate": {
-      "longitude": 59.5,
-      "latitude": 40
-    }
-  },
-  {
-    "name_cn": "突尼斯",
-    "name_en": "Tunisia",
-    "code": "TN",
-    "coordinate": {
-      "longitude": 9,
-      "latitude": 34
-    }
-  },
-  {
-    "name_cn": "汤加",
-    "name_en": "Tonga",
-    "code": "TO",
-    "coordinate": {
-      "longitude": -175,
-      "latitude": -20
-    }
-  },
-  {
-    "name_cn": "土耳其",
-    "name_en": "Turkey",
-    "code": "TR",
-    "coordinate": {
-      "longitude": 35,
-      "latitude": 39
-    }
-  },
-  {
-    "name_cn": "特立尼达和多巴哥",
-    "name_en": "Trinidad and Tobago",
-    "code": "TT",
-    "coordinate": {
-      "longitude": -61,
-      "latitude": 11
-    }
-  },
-  {
-    "name_cn": "图瓦卢",
-    "name_en": "Tuvalu",
-    "code": "TV",
-    "coordinate": {
-      "longitude": 178,
-      "latitude": -8
-    }
-  },
-  {
-    "name_cn": "坦桑尼亚",
-    "name_en": "U.R. Tanzania",
-    "code": "TZ",
-    "coordinate": {
-      "longitude": 34.88,
-      "latitude": -6.25
-    }
-  },
-  {
-    "name_cn": "乌克兰",
-    "name_en": "Ukraine",
-    "code": "UA",
-    "coordinate": {
-      "longitude": 32,
-      "latitude": 49
-    }
-  },
-  {
-    "name_cn": "乌干达",
-    "name_en": "Uganda",
-    "code": "UG",
-    "coordinate": {
-      "longitude": 32,
-      "latitude": 1
-    }
-  },
-  {
-    "name_cn": "美国本土外小岛",
-    "name_en": "United States Minor Outlying Islands",
-    "code": "UM",
-    "coordinate": {
-      "longitude": -166.6,
-      "latitude": 19.3
-    }
-  },
-  {
-    "name_cn": "联合国",
-    "name_en": "United Nations",
-    "code": "UN",
-    "coordinate": {
-      "longitude": 0,
-      "latitude": 0
-    }
-  },
-  {
-    "name_cn": "美国",
-    "name_en": "United States",
-    "code": "US",
-    "coordinate": {
-      "longitude": -97,
-      "latitude": 38
-    }
-  },
-  {
-    "name_cn": "乌拉圭",
-    "name_en": "Uruguay",
-    "code": "UY",
-    "coordinate": {
-      "longitude": -56,
-      "latitude": -33
-    }
-  },
-  {
-    "name_cn": "乌兹别克斯坦",
-    "name_en": "Uzbekistan",
-    "code": "UZ",
-    "coordinate": {
-      "longitude": 64,
-      "latitude": 41
-    }
-  },
-  {
-    "name_cn": "梵蒂冈",
-    "name_en": "Vatican City",
-    "code": "VA",
-    "coordinate": {
-      "longitude": 12.45,
-      "latitude": 41.9
-    }
-  },
-  {
-    "name_cn": "圣文森特",
-    "name_en": "Saint Vincent",
-    "code": "VC",
-    "coordinate": {
-      "longitude": -61.2,
-      "latitude": 13.25
-    }
-  },
-  {
-    "name_cn": "委内瑞拉",
-    "name_en": "Venezuela",
-    "code": "VE",
-    "coordinate": {
-      "longitude": -66,
-      "latitude": 8
-    }
-  },
-  {
-    "name_cn": "英属维尔京",
-    "name_en": "British Virgin Islands",
-    "code": "VG",
-    "coordinate": {
-      "longitude": -64.5,
-      "latitude": 18.43
-    }
-  },
-  {
-    "name_cn": "美属维尔京",
-    "name_en": "United States Virgin Islands",
-    "code": "VI",
-    "coordinate": {
-      "longitude": -64.83,
-      "latitude": 18.33
-    }
-  },
-  {
-    "name_cn": "越南",
-    "name_en": "Vietnam",
-    "code": "VN",
-    "coordinate": {
-      "longitude": 106.16,
-      "latitude": 16.16
-    }
-  },
-  {
-    "name_cn": "瓦努阿图",
-    "name_en": "Vanuatu",
-    "code": "VU",
-    "coordinate": {
-      "longitude": 167,
-      "latitude": -16
-    }
-  },
-  {
-    "name_cn": "瓦利斯和富图纳",
-    "name_en": "Wallis and Futuna",
-    "code": "WF",
-    "coordinate": {
-      "longitude": -176.2,
-      "latitude": -13.3
-    }
-  },
-  {
-    "name_cn": "萨摩亚",
-    "name_en": "Samoa",
-    "code": "WS",
-    "coordinate": {
-      "longitude": -172.33,
-      "latitude": -13.5
-    }
-  },
-  {
-    "name_cn": "科索沃",
-    "name_en": "Kosovo",
-    "code": "XK",
-    "coordinate": {
-      "longitude": 20.9,
-      "latitude": 42.6
-    }
-  },
-  {
-    "name_cn": "也门",
-    "name_en": "Yemen",
-    "code": "YE",
-    "coordinate": {
-      "longitude": 48,
-      "latitude": 15
-    }
-  },
-  {
-    "name_cn": "马约特",
-    "name_en": "Mayotte",
-    "code": "YT",
-    "coordinate": {
-      "longitude": 45.16,
-      "latitude": -12.83
-    }
-  },
-  {
-    "name_cn": "南非",
-    "name_en": "South Africa",
-    "code": "ZA",
-    "coordinate": {
-      "longitude": 24,
-      "latitude": -29
-    }
-  },
-  {
-    "name_cn": "赞比亚",
-    "name_en": "Zambia",
-    "code": "ZM",
-    "coordinate": {
-      "longitude": 30,
-      "latitude": -15
-    }
-  },
-  {
-    "name_cn": "津巴布韦",
-    "name_en": "Zimbabwe",
-    "code": "ZW",
-    "coordinate": {
-      "longitude": 30,
-      "latitude": -20
-    }
-  }
 ]
