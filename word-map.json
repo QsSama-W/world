@@ -547,7 +547,7 @@
     },
     {
         "name_cn": "塞浦路斯",
-        "name_en": "Cyprus",
+        "name_en": "N. Cyprus",
         "code": "CY",
         "coordinate": {
             "longitude": 33,
@@ -1195,7 +1195,7 @@
     },
     {
         "name_cn": "老挝",
-        "name_en": "Laos",
+        "name_en": "Lao PDR",
         "code": "LA",
         "coordinate": {
             "longitude": 105,
