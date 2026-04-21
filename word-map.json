@@ -546,12 +546,21 @@
         }
     },
     {
-        "name_cn": "塞浦路斯",
+        "name_cn": "北塞浦路斯",
         "name_en": "N. Cyprus",
         "code": "CY",
         "coordinate": {
-            "longitude": 33,
-            "latitude": 35
+            "longitude": 33.45,
+            "latitude": 35.25
+        }
+    },
+    {
+        "name_cn": "塞浦路斯",
+        "name_en": "Cyprus",
+        "code": "CY",
+        "coordinate": {
+            "longitude": 33.38,
+            "latitude": 35.12
         }
     },
     {
